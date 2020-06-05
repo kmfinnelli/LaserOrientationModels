@@ -1,0 +1,1380 @@
+2900 0 9 0           
+26 TracePro Standard - 20.2.0 14 ACIS 29.0.1 NT 24 Fri Jun  5 11:42:34 2020 
+1 9.9999999999999995e-07 1e-10 
+T @77 HPTWGDYET2DZTMQWDD_JZ5HAB4A4PAQD_A7H2TCCB86MRAQ87CS4KAPHBBVCFJP2BAP3M27CYC94K 
+body $9 -1 -1 $-1 0 $10 $-1 $11 T -1.5 -1.590990257670033 199.11611652351675 1.5 0.88388347648319099 201.59099025767 #
+body $12 -1 -1 $-1 0 $13 $-1 $-1 T -1.5 4.1650881556373296 198.49127293567901 1.5 5.8008376706519504 201.24990801921848 #
+body $14 -1 -1 $-1 0 $15 $-1 $-1 T -3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 #
+body $16 -1 -1 $-1 0 $17 $-1 $-1 T -3 -3.0000000000000902 203.25 3 2.99999999999994 342.94999999999999 #
+body $18 -1 -1 $-1 0 $19 $-1 $20 T -12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 13.470384181604022 158.98025612106926 #
+body $21 -1 -1 $-1 0 $22 $-1 $-1 T -12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 63.470384181603698 #
+body $23 -1 -1 $-1 0 $24 $-1 $25 T -12.699999999999999 -63.47038418160399 141.01974387893074 12.699999999999999 -41.019743878930903 163.470384181604 #
+body $26 -1 -1 $-1 0 $27 $-1 $-1 T -12.699999999999999 -63.470384181603734 36.529615818396302 12.699999999999999 -41.019743878930797 58.980256121069218 #
+body $28 -1 -1 $-1 0 $29 $-1 $30 T -750 -5000 0 750 5000 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $31 $-1 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 1 #
+lump $32 -1 -1 $-1 $-1 $33 $0 T -1.5 -1.590990257670033 199.11611652351675 1.5 0.88388347648319099 201.59099025767 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 8.8817841970012523e-16 1.634803403760543e-14 1 rotate no_reflect no_shear #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $34 $-1 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 2 #
+lump $35 -1 -1 $-1 $-1 $36 $1 T -1.5 4.1650881556373296 198.49127293567901 1.5 5.8008376706519504 201.24990801921848 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $37 $-1 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 3 #
+lump $38 -1 -1 $-1 $-1 $39 $2 T -3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $40 $-1 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 4 #
+lump $41 -1 -1 $-1 $-1 $42 $3 T -3 -3.0000000000000902 203.25 3 2.99999999999994 342.94999999999999 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $43 $-1 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 6 #
+lump $44 -1 -1 $-1 $-1 $45 $4 T -12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 13.470384181604022 158.98025612106926 #
+transform $-1 -1 1 0 0 0 1 -1.3877787807814457e-17 0 1.3877787807814457e-17 1 0 -8.8817841970012523e-16 -2.656208586415687e-14 1 rotate no_reflect no_shear #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $46 $-1 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 7 #
+lump $47 -1 -1 $-1 $-1 $48 $5 T -12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 63.470384181603698 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $49 $-1 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 5 #
+lump $50 -1 -1 $-1 $-1 $51 $6 T -12.699999999999999 -63.47038418160399 141.01974387893074 12.699999999999999 -41.019743878930903 163.470384181604 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 1.1102230246251565e-14 -3.4194869158454821e-14 1 rotate no_reflect no_shear #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $52 $-1 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 8 #
+lump $53 -1 -1 $-1 $-1 $54 $7 T -12.699999999999999 -63.470384181603734 36.529615818396302 12.699999999999999 -41.019743878930797 58.980256121069218 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $55 $-1 $8 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @22 SYSTEM_TREE_NODE_INDEX 9 #
+lump $-1 -1 -1 $-1 $-1 $56 $8 T -750 -5000 0 750 5000 0 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 0 1342.95 1 no_rotate no_reflect no_shear #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $57 $9 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1VNCN45 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $58 $-1 $10 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 21 #
+shell $-1 -1 -1 $-1 $-1 $-1 $59 $-1 $10 T -1.5 -1.590990257670033 199.11611652351675 1.5 0.88388347648319099 201.59099025767 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $60 $12 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1VNCN65 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $61 $-1 $13 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 22 #
+shell $-1 -1 -1 $-1 $-1 $-1 $62 $-1 $13 T -1.5 4.1650881556373296 198.49127293567901 1.5 5.8008376706519504 201.24990801921848 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $63 $14 $2 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $64 $-1 $15 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 23 #
+shell $-1 -1 -1 $-1 $-1 $-1 $65 $-1 $15 T -3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $66 $16 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $67 $-1 $17 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 24 #
+shell $-1 -1 -1 $-1 $-1 $-1 $68 $-1 $17 T -3 -3.0000000000000902 203.25 3 2.99999999999994 342.94999999999999 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $69 $18 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1VJCN65 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $70 $-1 $19 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 25 #
+shell $-1 -1 -1 $-1 $-1 $-1 $71 $-1 $19 T -12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 13.470384181604022 158.98025612106926 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $72 $21 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1V8CN45 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $73 $-1 $22 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 26 #
+shell $-1 -1 -1 $-1 $-1 $-1 $74 $-1 $22 T -12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 63.470384181603698 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $75 $23 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1VJCN45 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $76 $-1 $24 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 27 #
+shell $-1 -1 -1 $-1 $-1 $-1 $77 $-1 $24 T -12.699999999999999 -63.47038418160399 141.01974387893074 12.699999999999999 -41.019743878930903 163.470384181604 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $78 $26 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1V8CN65 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $79 $-1 $27 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 28 #
+shell $-1 -1 -1 $-1 $-1 $-1 $80 $-1 $27 T -12.699999999999999 -63.470384181603734 36.529615818396302 12.699999999999999 -41.019743878930797 58.980256121069218 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $81 $28 $8 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @28 LAM_MB_Sheet_RectangleWidthY 10000 #
+shell $-1 -1 -1 $-1 $-1 $-1 $82 $-1 $29 T -750 -5000 0 750 5000 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $83 $31 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 8.8817841970012523e-16 1.634803403760543e-14 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $84 $32 $10 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $85 -1 -1 $-1 $86 $87 $33 $-1 $88 forward single T -1.5 -1.590990257670033 199.11611652351675 -1.5 0.88388347648319099 201.59099025767 F #
+position_attrib-name_attrib-gen-attrib $-1 -1 $89 $34 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $90 $35 $13 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $91 -1 -1 $-1 $92 $93 $36 $-1 $94 forward single T -1.5 4.1650881556373296 198.49127293567901 -1.5 5.8008376706519504 201.24990801921848 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $95 $37 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 4 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $96 $38 $15 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $97 -1 -1 $-1 $98 $99 $39 $-1 $100 forward single T -3 -3.00000000000006 201.942038115749 -3 2.9999999999999738 203 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $101 $40 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $102 $41 $17 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $103 -1 -1 $-1 $104 $105 $42 $-1 $106 forward single T -3 -3.0000000000000902 203.25 -3 2.99999999999994 342.94999999999999 F #
+position_attrib-name_attrib-gen-attrib $-1 -1 $107 $43 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $108 $44 $19 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $109 -1 -1 $-1 $110 $111 $45 $-1 $112 forward single T -12.699999999999999 -8.9802561210691199 136.529615818396 -12.699999999999999 13.470384181604022 158.98025612106926 F #
+position_attrib-name_attrib-gen-attrib $-1 -1 $113 $46 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $114 $47 $22 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $115 -1 -1 $-1 $116 $117 $48 $-1 $118 forward single T -12.699999999999999 -8.9802561210691607 41.019743878930903 -12.699999999999999 13.4703841816037 63.470384181603698 F #
+position_attrib-name_attrib-gen-attrib $-1 -1 $119 $49 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $120 $50 $24 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $121 -1 -1 $-1 $122 $123 $51 $-1 $124 forward single T -12.699999999999999 -63.47038418160399 141.01974387893074 -12.699999999999999 -41.019743878930903 163.470384181604 F #
+position_attrib-name_attrib-gen-attrib $-1 -1 $125 $52 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_5 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $126 $53 $27 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+face $127 -1 -1 $-1 $128 $129 $54 $-1 $130 forward single T -12.699999999999999 -63.470384181603734 36.529615818396302 -12.699999999999999 -41.019743878930797 58.980256121069218 F #
+real_attrib-name_attrib-gen-attrib $-1 -1 $131 $55 $8 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @28 LAM_MB_Sheet_RectangleWidthX 1500 #
+face $-1 -1 -1 $-1 $-1 $132 $56 $-1 $133 forward double out T -750 -5000 0 750 5000 0 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $134 $57 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $135 $58 $10 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $136 $-1 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $137 -1 -1 $-1 $138 $139 $33 $-1 $140 forward single T -1.5 -0.88388347648320897 199.11611652351701 1.5 0.88388347648319099 200.88388347648322 F #
+loop $141 -1 -1 $-1 $-1 $142 $59 T -1.5 -1.590990257670033 199.11611652351675 -1.5 0.88388347648319099 201.59099025767 periphery $88 F #
+plane-surface $-1 -1 -1 $-1 -1.5 -0.35355339059327301 200.35355339059299 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $143 $60 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $144 $61 $13 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $145 $-1 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $146 -1 -1 $-1 $147 $148 $36 $-1 $149 forward single T -1.5 5.1310139819264 198.49127293567901 1.5 5.8008376706519504 200.991088974116 F #
+loop $150 -1 -1 $-1 $-1 $151 $62 T -1.5 4.1650881556373296 198.49127293567901 -1.5 5.8008376706519504 201.24990801921848 periphery $94 F #
+plane-surface $-1 -1 -1 $-1 -1.5 4.9829629131445303 199.87059047744901 -1 0 0 0 0 1 forward_v I I I I #
+position_attrib-name_attrib-gen-attrib $-1 -1 $152 $63 $2 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $153 $64 $15 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $154 $-1 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $155 -1 -1 $-1 $156 $157 $39 $-1 $158 forward single T -3 -3.00000000000006 203 3 2.99999999999994 203 F #
+loop $159 -1 -1 $-1 $-1 $160 $65 T -3 -3.00000000000006 201.942038115749 -3 2.9999999999999738 203 periphery $100 F #
+plane-surface $-1 -1 -1 $-1 -3 -6.1617377866696201e-14 202.471019057875 -1 0 0 0 0 1 forward_v I I I I #
+position_attrib-name_attrib-gen-attrib $-1 -1 $161 $66 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $162 $67 $17 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $163 $-1 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $164 -1 -1 $-1 $165 $166 $42 $-1 $167 forward single T -3 -3.0000000000000902 342.94999999999999 3 2.9999999999999001 342.94999999999999 F #
+loop $168 -1 -1 $-1 $-1 $169 $68 T -3 -3.0000000000000902 203.25 -3 2.99999999999994 342.94999999999999 periphery $106 F #
+plane-surface $-1 -1 -1 $-1 -3 -7.4940054162198104e-14 273.10000000000002 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $170 $69 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $171 $70 $19 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $172 $-1 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $173 -1 -1 $-1 $174 $175 $45 $-1 $176 forward single T -12.699999999999999 -4.49012806053448 136.529615818396 12.699999999999999 13.470384181604022 154.490128060535 F #
+loop $177 -1 -1 $-1 $-1 $178 $71 T -12.699999999999999 -8.9802561210691199 136.529615818396 -12.699999999999999 13.470384181604022 158.98025612106926 periphery $112 F #
+plane-surface $-1 -1 -1 $-1 -12.699999999999999 2.2450640302672999 147.754935969733 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $179 $72 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $180 $73 $22 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $181 $-1 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $182 -1 -1 $-1 $183 $184 $48 $-1 $185 forward single T -12.699999999999999 -8.9802561210691607 58.980256121069168 12.699999999999999 -4.4901280605345901 63.470384181603698 F #
+loop $186 -1 -1 $-1 $-1 $187 $74 T -12.699999999999999 -8.9802561210691607 41.019743878930903 -12.699999999999999 13.4703841816037 63.470384181603698 periphery $118 F #
+plane-surface $-1 -1 -1 $-1 -12.699999999999999 2.24506403026728 52.245064030267301 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $188 $75 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $189 $76 $24 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $190 $-1 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $191 -1 -1 $-1 $192 $193 $51 $-1 $194 forward single T -12.699999999999999 -45.509871939465725 158.980256121069 12.699999999999999 -41.019743878930903 163.470384181604 F #
+loop $195 -1 -1 $-1 $-1 $196 $77 T -12.699999999999999 -63.47038418160399 141.01974387893074 -12.699999999999999 -41.019743878930903 163.470384181604 periphery $124 F #
+plane-surface $-1 -1 -1 $-1 -12.699999999999999 -52.245064030267301 152.245064030267 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $197 $78 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_BODY_TNDX 5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $198 $79 $27 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $199 $-1 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $200 -1 -1 $-1 $201 $202 $54 $-1 $203 forward single T -12.699999999999999 -58.980256121069203 41.019743878930797 12.699999999999999 -41.019743878930797 58.980256121069218 F #
+loop $204 -1 -1 $-1 $-1 $205 $80 T -12.699999999999999 -63.470384181603734 36.529615818396302 -12.699999999999999 -41.019743878930797 58.980256121069218 periphery $130 F #
+plane-surface $-1 -1 -1 $-1 -12.699999999999999 -52.245064030267301 47.754935969732699 -1 0 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $206 $81 $8 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @11 LAM_MB_Type 1 #
+loop $-1 -1 -1 $-1 $-1 $207 $82 T -750 -5000 0 750 5000 0 periphery $133 F #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+position_attrib-name_attrib-gen-attrib $-1 -1 $208 $83 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 8.8817841970012523e-16 1.634803403760543e-14 #
+rgb_color-st-attrib $-1 -1 $-1 $84 $10 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $209 $85 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $210 $-1 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $211 -1 -1 $-1 $212 $213 $33 $-1 $214 forward single T -1.5 -1.5909902576697399 199.11611652351675 1.5 -0.88388347648320897 199.82322330470299 F #
+loop $215 -1 -1 $-1 $-1 $216 $86 T -1.5 -0.88388347648320897 199.11611652351701 1.5 0.88388347648319099 200.88388347648322 periphery $140 F #
+plane-surface $-1 -1 -1 $-1 0 -0.88388347648320897 199.11611652351701 0 0.70710678118655101 -0.70710678118654402 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $87 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $217 $218 $219 $220 forward $87 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $221 $89 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 0 0 #
+rgb_color-st-attrib $-1 -1 $-1 $90 $13 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $222 $91 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $223 $-1 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $224 -1 -1 $-1 $225 $226 $36 $-1 $227 forward single T -1.5 4.1650881556373296 198.49127293567901 1.5 5.1310139819265155 198.750091980782 F #
+loop $228 -1 -1 $-1 $-1 $229 $92 T -1.5 5.1310139819264 198.49127293567901 1.5 5.8008376706519504 200.991088974116 periphery $149 F #
+plane-surface $-1 -1 -1 $-1 0 5.1310139819264 198.49127293567901 0 0.96592582628906776 -0.25881904510252296 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $93 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $230 $231 $232 $233 forward $93 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $234 $95 $2 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 0 0 #
+rgb_color-st-attrib $-1 -1 $-1 $96 $15 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $235 $97 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $236 $-1 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $237 -1 -1 $-1 $238 $239 $39 $-1 $240 forward single T -3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 F #
+loop $241 -1 -1 $-1 $-1 $242 $98 T -3 -3.00000000000006 203 3 2.99999999999994 203 periphery $158 F #
+plane-surface $-1 -1 -1 $-1 0 2.99999999999994 203 0 0 1 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $99 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $243 $244 $245 $246 forward $99 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $247 $101 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 0 0 #
+rgb_color-st-attrib $-1 -1 $-1 $102 $17 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $248 $103 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $249 $-1 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @7 1V7MWA8 #
+face $250 -1 -1 $-1 $251 $252 $42 $-1 $253 forward single T -3 2.9999999999998974 203.25 3 2.99999999999994 342.94999999999999 F #
+loop $254 -1 -1 $-1 $-1 $255 $104 T -3 -3.0000000000000902 342.94999999999999 3 2.9999999999999001 342.94999999999999 periphery $167 F #
+plane-surface $-1 -1 -1 $-1 0 2.9999999999999001 342.94999999999999 0 0 1 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $105 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $256 $257 $258 $259 forward $105 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $260 $107 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+rgb_color-st-attrib $-1 -1 $-1 $108 $19 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $261 $109 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $262 $-1 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $263 -1 -1 $-1 $264 $265 $45 $-1 $266 forward single T -12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 -4.4901280605342517 141.019743878931 F #
+loop $267 -1 -1 $-1 $-1 $268 $110 T -12.699999999999999 -4.49012806053448 136.529615818396 12.699999999999999 13.470384181604022 154.490128060535 periphery $176 F #
+plane-surface $-1 -1 -1 $-1 0 -4.49012806053448 136.529615818396 0 0.70710678118655101 -0.70710678118654402 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $111 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $269 $270 $271 $272 forward $111 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $273 $113 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 0 0 #
+rgb_color-st-attrib $-1 -1 $-1 $114 $22 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $274 $115 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $275 $-1 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $276 -1 -1 $-1 $277 $278 $48 $-1 $279 forward single T -12.699999999999999 -4.490128060534607 45.509871939465398 12.699999999999999 13.4703841816037 63.470384181603698 F #
+loop $280 -1 -1 $-1 $-1 $281 $116 T -12.699999999999999 -8.9802561210691607 58.980256121069168 12.699999999999999 -4.4901280605345901 63.470384181603698 periphery $185 F #
+plane-surface $-1 -1 -1 $-1 0 -4.4901280605345901 63.470384181603698 0 -0.70710678118654702 0.70710678118654802 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $117 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $282 $283 $284 $285 forward $117 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $286 $119 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+rgb_color-st-attrib $-1 -1 $-1 $120 $24 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $287 $121 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $288 $-1 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $289 -1 -1 $-1 $290 $291 $51 $-1 $292 forward single T -12.699999999999999 -58.980256121069097 141.019743878931 12.699999999999999 -41.019743878930903 158.98025612106917 F #
+loop $293 -1 -1 $-1 $-1 $294 $122 T -12.699999999999999 -45.509871939465725 158.980256121069 12.699999999999999 -41.019743878930903 163.470384181604 periphery $194 F #
+plane-surface $-1 -1 -1 $-1 0 -41.019743878930903 158.980256121069 0 0.70710678118654302 0.70710678118655201 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $123 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $295 $296 $297 $298 forward $123 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $299 $125 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_4 0 0 0 #
+rgb_color-st-attrib $-1 -1 $-1 $126 $27 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $300 $127 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $301 $-1 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $302 -1 -1 $-1 $303 $304 $54 $-1 $305 forward single T -12.699999999999999 -45.509871939465498 36.529615818396302 12.699999999999999 -41.019743878930797 41.019743878930875 F #
+loop $306 -1 -1 $-1 $-1 $307 $128 T -12.699999999999999 -58.980256121069203 41.019743878930797 12.699999999999999 -41.019743878930797 58.980256121069218 periphery $203 F #
+plane-surface $-1 -1 -1 $-1 0 -41.019743878930797 41.019743878930797 0 0.70710678118654802 0.70710678118654702 1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $129 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $308 $309 $310 $311 forward $129 $-1 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $-1 $131 $8 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @23 1VRCVCRW7FGWU8QKBG7DUX8 #
+coedge $-1 -1 -1 $-1 $312 $313 $-1 $314 forward $132 $-1 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $315 $134 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 8.8817841970012523e-16 1.634803403760543e-14 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $316 $136 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $317 $137 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $318 $-1 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $319 -1 -1 $-1 $320 $321 $33 $-1 $322 forward single T -1.5 -1.590990257670033 199.82322330470299 1.5 0.17677669529668 201.59099025767 F #
+loop $323 -1 -1 $-1 $-1 $324 $138 T -1.5 -1.5909902576697399 199.11611652351675 1.5 -0.88388347648320897 199.82322330470299 periphery $214 F #
+plane-surface $-1 -1 -1 $-1 0 -1.5909902576697399 199.82322330470299 0 -0.70710678118653902 -0.70710678118655601 0 -0.70710678118655601 0.70710678118653902 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $139 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $325 $326 $327 $328 reversed $139 $-1 #
+coedge $-1 -1 -1 $-1 $329 $142 $326 $330 forward $87 $-1 #
+coedge $-1 -1 -1 $-1 $142 $329 $331 $332 forward $87 $-1 #
+coedge $-1 -1 -1 $-1 $333 $327 $142 $220 reversed $334 $-1 #
+edge $335 -1 -1 $-1 $336 -0.10000000000002998 $337 0 $142 $338 forward @7 unknown T -1.5 0.17677669529643103 200.88388347648299 -1.5 0.88388347648319099 201.59099025767 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $339 $143 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 0 0 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $340 $145 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $341 $146 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $342 $-1 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $343 -1 -1 $-1 $344 $345 $36 $-1 $346 forward single T -1.5 4.1650881556373296 198.750091980782 1.5 4.8349118443626704 201.249908019218 F #
+loop $347 -1 -1 $-1 $-1 $348 $147 T -1.5 4.1650881556373296 198.49127293567901 1.5 5.1310139819265155 198.750091980782 periphery $227 F #
+plane-surface $-1 -1 -1 $-1 0 4.1650881556373296 198.750091980782 0 -0.25881904510253395 -0.96592582628906476 0 -0.96592582628906476 0.25881904510253395 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $148 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $349 $350 $351 $352 reversed $148 $-1 #
+coedge $-1 -1 -1 $-1 $353 $151 $350 $354 forward $93 $-1 #
+coedge $-1 -1 -1 $-1 $151 $353 $355 $356 forward $93 $-1 #
+coedge $-1 -1 -1 $-1 $357 $351 $151 $233 reversed $358 $-1 #
+edge $359 -1 -1 $-1 $360 -0.099999999999986655 $361 0 $151 $362 forward @7 unknown T -1.5 4.8349118443626704 200.991088974116 -1.5 5.8008376706517399 201.24990801921848 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $363 $152 $2 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 0 0 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $364 $154 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $365 $155 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $366 $-1 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $367 -1 -1 $-1 $368 $369 $39 $-1 $370 forward single T -3 -3.00000000000006 201.942038115749 3 -3.00000000000006 203 F #
+loop $371 -1 -1 $-1 $-1 $372 $156 T -3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 periphery $240 F #
+plane-surface $-1 -1 -1 $-1 0 -3.00000000000006 201.942038115749 0 0.17364817766693408 -0.98480775301220747 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $157 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $373 $374 $375 $376 reversed $157 $-1 #
+coedge $-1 -1 -1 $-1 $244 $160 $374 $377 forward $99 $-1 #
+coedge $-1 -1 -1 $-1 $160 $243 $378 $379 forward $99 $-1 #
+coedge $-1 -1 -1 $-1 $380 $375 $160 $246 reversed $369 $-1 #
+edge $381 -1 -1 $-1 $382 -0.10579618842510001 $383 0 $160 $384 forward @7 unknown T -3 -3.00000000000006 201.942038115749 -3 -3.00000000000006 203 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $385 $161 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 0 0 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $386 $163 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $387 $164 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $388 $-1 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 1 #
+face $389 -1 -1 $-1 $390 $391 $42 $-1 $392 forward single T -3 -3.00000000000006 203.25 3 2.99999999999994 203.25 F #
+loop $393 -1 -1 $-1 $-1 $394 $165 T -3 2.9999999999998974 203.25 3 2.99999999999994 342.94999999999999 periphery $253 F #
+plane-surface $-1 -1 -1 $-1 0 2.99999999999994 203.25 0 1 3.0596697529039698e-16 1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $166 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $395 $396 $397 $398 reversed $166 $-1 #
+coedge $-1 -1 -1 $-1 $399 $169 $396 $400 forward $105 $-1 #
+coedge $-1 -1 -1 $-1 $169 $399 $401 $402 forward $105 $-1 #
+coedge $-1 -1 -1 $-1 $403 $397 $169 $259 reversed $404 $-1 #
+edge $405 -1 -1 $-1 $406 -13.969999999999999 $407 0 $169 $408 forward @7 unknown T -3 -3.0000000000000902 203.25 -3 -3.00000000000006 342.94999999999999 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $409 $170 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $410 $172 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $411 $173 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $412 $-1 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $413 -1 -1 $-1 $414 $415 $45 $-1 $416 forward single T -12.699999999999999 -8.9802561210691199 141.0197438789308 12.699999999999999 8.9802561210690808 158.980256121069 F #
+loop $417 -1 -1 $-1 $-1 $418 $174 T -12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 -4.4901280605342517 141.019743878931 periphery $266 F #
+plane-surface $-1 -1 -1 $-1 0 -8.9802561210691199 141.019743878931 0 -0.70710678118654002 -0.70710678118655501 0 -0.70710678118655501 0.70710678118654002 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $175 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $419 $420 $421 $422 reversed $175 $-1 #
+coedge $-1 -1 -1 $-1 $423 $178 $420 $424 forward $111 $-1 #
+coedge $-1 -1 -1 $-1 $178 $423 $425 $426 forward $111 $-1 #
+coedge $-1 -1 -1 $-1 $427 $421 $178 $272 reversed $428 $-1 #
+edge $429 -1 -1 $-1 $430 -0.63499999999996259 $431 0 $178 $432 forward @7 unknown T -12.699999999999999 8.9802561210690808 154.490128060535 -12.699999999999999 13.4703841816037 158.98025612106926 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $433 $179 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 0 0 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $434 $181 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $435 $182 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $436 $-1 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $437 -1 -1 $-1 $438 $439 $48 $-1 $440 forward single T -12.699999999999999 8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 45.509871939465427 F #
+loop $441 -1 -1 $-1 $-1 $442 $183 T -12.699999999999999 -4.490128060534607 45.509871939465398 12.699999999999999 13.4703841816037 63.470384181603698 periphery $279 F #
+plane-surface $-1 -1 -1 $-1 0 13.4703841816037 45.509871939465398 0 0.70710678118654702 0.70710678118654802 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $184 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $443 $444 $445 $446 reversed $184 $-1 #
+coedge $-1 -1 -1 $-1 $447 $187 $444 $448 forward $117 $-1 #
+coedge $-1 -1 -1 $-1 $187 $447 $449 $450 forward $117 $-1 #
+coedge $-1 -1 -1 $-1 $451 $445 $187 $285 reversed $452 $-1 #
+edge $453 -1 -1 $-1 $454 -2.5400000000000005 $455 0 $187 $456 forward @7 unknown T -12.699999999999999 -8.9802561210691607 41.019743878930903 -12.699999999999999 8.9802561210691643 58.980256121069203 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $457 $188 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $458 $190 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $459 $191 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $460 $-1 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $461 -1 -1 $-1 $462 $463 $51 $-1 $464 forward single T -12.699999999999999 -63.470384181603698 141.01974387893074 12.699999999999999 -58.980256121069097 145.509871939465 F #
+loop $465 -1 -1 $-1 $-1 $466 $192 T -12.699999999999999 -58.980256121069097 141.019743878931 12.699999999999999 -41.019743878930903 158.98025612106917 periphery $292 F #
+plane-surface $-1 -1 -1 $-1 0 -58.980256121069097 141.019743878931 0 0.70710678118655101 -0.70710678118654402 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $193 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $467 $468 $469 $470 reversed $193 $-1 #
+coedge $-1 -1 -1 $-1 $471 $196 $468 $472 forward $123 $-1 #
+coedge $-1 -1 -1 $-1 $196 $471 $473 $474 forward $123 $-1 #
+coedge $-1 -1 -1 $-1 $475 $469 $196 $298 reversed $476 $-1 #
+edge $477 -1 -1 $-1 $478 -2.5400000000000418 $479 0 $196 $480 forward @7 unknown T -12.699999999999999 -63.47038418160399 145.509871939465 -12.699999999999999 -45.509871939465498 163.470384181604 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $481 $197 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_3 0 0 0 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $482 $199 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $483 $200 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $484 $-1 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $485 -1 -1 $-1 $486 $487 $54 $-1 $488 forward single T -12.699999999999999 -63.470384181603698 36.529615818396302 12.699999999999999 -45.509871939465455 54.490128060534602 F #
+loop $489 -1 -1 $-1 $-1 $490 $201 T -12.699999999999999 -45.509871939465498 36.529615818396302 12.699999999999999 -41.019743878930797 41.019743878930875 periphery $305 F #
+plane-surface $-1 -1 -1 $-1 0 -45.509871939465498 36.529615818396302 0 0.70710678118654402 -0.70710678118655101 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $202 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $491 $492 $493 $494 reversed $202 $-1 #
+coedge $-1 -1 -1 $-1 $495 $205 $492 $496 forward $129 $-1 #
+coedge $-1 -1 -1 $-1 $205 $495 $497 $498 forward $129 $-1 #
+coedge $-1 -1 -1 $-1 $499 $493 $205 $311 reversed $500 $-1 #
+edge $501 -1 -1 $-1 $502 -0.63499999999999601 $503 0 $205 $504 forward @7 unknown T -12.699999999999999 -63.470384181603734 54.490128060534602 -12.699999999999999 -58.980256121069203 58.980256121069203 #
+coedge $-1 -1 -1 $-1 $505 $207 $-1 $506 forward $132 $-1 #
+coedge $-1 -1 -1 $-1 $207 $505 $-1 $507 forward $132 $-1 #
+edge $-1 -1 -1 $-1 $508 0 $509 1500 $207 $510 forward @7 unknown T -750 -5000 0 750 -5000 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $511 $208 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 8.8817841970012523e-16 1.634803403760543e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $512 $209 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $513 $210 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $514 $211 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $515 $-1 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $516 -1 -1 $-1 $517 $334 $33 $-1 $518 forward single T -1.5 0.17677669529643103 200.88388347648299 1.5 0.88388347648319099 201.59099025767 F #
+loop $519 -1 -1 $-1 $-1 $520 $212 T -1.5 -1.590990257670033 199.82322330470299 1.5 0.17677669529668 201.59099025767 periphery $322 F #
+plane-surface $-1 -1 -1 $-1 0 0.17677669529668 201.59099025767 0 -0.70710678118654802 0.70710678118654702 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $213 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $521 $522 $523 $524 forward $213 $-1 #
+coedge $-1 -1 -1 $-1 $523 $216 $525 $526 reversed $139 $-1 #
+coedge $-1 -1 -1 $-1 $216 $523 $217 $330 reversed $139 $-1 #
+coedge $-1 -1 -1 $-1 $219 $527 $216 $328 forward $334 $-1 #
+edge $528 -1 -1 $-1 $529 -0.14999999999999999 $337 0.14999999999999999 $216 $530 forward @7 unknown T -1.5 0.88388347648319099 200.88388347648299 1.5 0.88388347648319099 200.88388347648299 #
+coedge $-1 -1 -1 $-1 $218 $217 $522 $531 forward $87 $-1 #
+edge $532 -1 -1 $-1 $337 -0.24999999999997505 $533 0 $217 $534 forward @7 unknown T -1.5 -0.88388347648320897 199.11611652351701 -1.5 0.88388347648319099 200.88388347648322 #
+coedge $-1 -1 -1 $-1 $520 $535 $218 $332 reversed $321 $-1 #
+edge $536 -1 -1 $-1 $537 -0.25000000000004885 $336 0 $218 $538 forward @7 unknown T -1.5 -1.590990257670033 199.82322330470299 -1.5 0.17677669529668 201.59099025767 #
+coedge $-1 -1 -1 $-1 $527 $219 $535 $539 forward $334 $-1 #
+loop $540 -1 -1 $-1 $-1 $333 $320 T -1.5 0.17677669529643103 200.88388347648299 1.5 0.88388347648319099 201.59099025767 periphery $518 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $220 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 371 #
+vertex $541 -1 -1 $-1 $332 $542 #
+vertex $543 -1 -1 $-1 $328 $544 #
+straight-curve $-1 -1 -1 $-1 -1.5 0.88388347648319099 200.88388347648299 0 7.0710678118654799 -7.0710678118654702 F -0.10000000000002998 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $545 $221 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $546 $222 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $547 $223 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $548 $224 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $549 $-1 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $550 -1 -1 $-1 $551 $358 $36 $-1 $552 forward single T -1.5 4.8349118443626704 200.991088974116 1.5 5.8008376706517399 201.24990801921848 F #
+loop $553 -1 -1 $-1 $-1 $554 $225 T -1.5 4.1650881556373296 198.750091980782 1.5 4.8349118443626704 201.249908019218 periphery $346 F #
+plane-surface $-1 -1 -1 $-1 0 4.8349118443626704 201.249908019218 0 -0.9659258262890682 0.25881904510252107 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $226 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $555 $556 $557 $558 forward $226 $-1 #
+coedge $-1 -1 -1 $-1 $557 $229 $559 $560 reversed $148 $-1 #
+coedge $-1 -1 -1 $-1 $229 $557 $230 $354 reversed $148 $-1 #
+coedge $-1 -1 -1 $-1 $232 $561 $229 $352 forward $358 $-1 #
+edge $562 -1 -1 $-1 $563 -0.14999999999999999 $361 0.14999999999999999 $229 $564 forward @7 unknown T -1.5 5.8008376706517399 200.991088974116 1.5 5.8008376706517399 200.991088974116 #
+coedge $-1 -1 -1 $-1 $231 $230 $556 $565 forward $93 $-1 #
+edge $566 -1 -1 $-1 $361 -0.25880000000008552 $567 0 $230 $568 forward @7 unknown T -1.5 5.1310139819264 198.49127293567901 -1.5 5.8008376706519504 200.991088974116 #
+coedge $-1 -1 -1 $-1 $554 $569 $231 $356 reversed $345 $-1 #
+edge $570 -1 -1 $-1 $571 -0.25879999999998948 $360 0 $231 $572 forward @7 unknown T -1.5 4.1650881556373296 198.750091980782 -1.5 4.8349118443626704 201.249908019218 #
+coedge $-1 -1 -1 $-1 $561 $232 $569 $573 forward $358 $-1 #
+loop $574 -1 -1 $-1 $-1 $357 $344 T -1.5 4.8349118443626704 200.991088974116 1.5 5.8008376706517399 201.24990801921848 periphery $552 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $233 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 383 #
+vertex $575 -1 -1 $-1 $356 $576 #
+vertex $577 -1 -1 $-1 $354 $578 #
+straight-curve $-1 -1 -1 $-1 -1.5 5.8008376706517399 200.991088974116 0 9.6592582628906527 -2.5881904510253211 F -0.099999999999986655 F 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $579 $234 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 LAM_MAT_PROPERTY @21 1V8CY8SMKE2UPM8R7F5DT #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $580 $235 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $581 $236 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $582 $237 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $583 $-1 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 0 #
+face $584 -1 -1 $-1 $-1 $585 $39 $-1 $586 forward single T 3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 F #
+loop $587 -1 -1 $-1 $-1 $380 $238 T -3 -3.00000000000006 201.942038115749 3 -3.00000000000006 203 periphery $370 F #
+plane-surface $-1 -1 -1 $-1 0 -3.00000000000006 203 0 -1 0 0 -0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $239 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $588 $378 $589 $590 forward $239 $-1 #
+coedge $-1 -1 -1 $-1 $589 $242 $591 $592 reversed $157 $-1 #
+coedge $-1 -1 -1 $-1 $242 $589 $243 $377 reversed $157 $-1 #
+coedge $-1 -1 -1 $-1 $245 $593 $242 $376 forward $369 $-1 #
+edge $594 -1 -1 $-1 $595 -0.29999999999999999 $383 0.29999999999999999 $242 $596 forward @7 unknown T -3 -3.00000000000006 203 3 -3.00000000000006 203 #
+edge $597 -1 -1 $-1 $383 -0.59999999999999998 $598 0 $243 $599 forward @7 unknown T -3 -3.00000000000006 203 -3 2.99999999999994 203 #
+coedge $-1 -1 -1 $-1 $372 $600 $244 $379 reversed $239 $-1 #
+edge $601 -1 -1 $-1 $598 -0.6092559671314508 $382 0 $244 $602 forward @7 unknown T -3 -3.00000000000006 201.942038115749 -3 2.9999999999999738 203 #
+coedge $-1 -1 -1 $-1 $593 $245 $600 $603 forward $369 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $246 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 395 #
+vertex $604 -1 -1 $-1 $246 $605 #
+vertex $606 -1 -1 $-1 $377 $607 #
+straight-curve $-1 -1 -1 $-1 -3 -3.00000000000006 203 0 0 10 F -0.10579618842510001 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $608 $247 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $609 $248 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $610 $249 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $611 $250 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $612 $-1 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+face $613 -1 -1 $-1 $614 $404 $42 $-1 $615 forward single T -3 -3.0000000000000902 203.25 3 -3.00000000000006 342.94999999999999 F #
+loop $616 -1 -1 $-1 $-1 $617 $251 T -3 -3.00000000000006 203.25 3 2.99999999999994 203.25 periphery $392 F #
+plane-surface $-1 -1 -1 $-1 0 -3.00000000000006 203.25 0 0 -1 0 -1 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $252 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $618 $619 $620 $621 forward $252 $-1 #
+coedge $-1 -1 -1 $-1 $620 $255 $622 $623 reversed $166 $-1 #
+coedge $-1 -1 -1 $-1 $255 $620 $256 $400 reversed $166 $-1 #
+coedge $-1 -1 -1 $-1 $258 $624 $255 $398 forward $404 $-1 #
+edge $625 -1 -1 $-1 $626 -0.29999999999999999 $407 0.29999999999999999 $255 $627 forward @7 unknown T -3 -3.0000000000000902 342.94999999999999 3 -3.0000000000000902 342.94999999999999 #
+coedge $-1 -1 -1 $-1 $257 $256 $619 $628 forward $105 $-1 #
+edge $629 -1 -1 $-1 $407 -0.59999999999999898 $630 0 $256 $631 forward @7 unknown T -3 -3.0000000000000902 342.94999999999999 -3 2.9999999999999001 342.94999999999999 #
+coedge $-1 -1 -1 $-1 $617 $632 $257 $402 reversed $391 $-1 #
+edge $633 -1 -1 $-1 $634 -0.59999999999999998 $406 0 $257 $635 forward @7 unknown T -3 -3.00000000000006 203.25 -3 2.99999999999994 203.25 #
+coedge $-1 -1 -1 $-1 $624 $258 $632 $636 forward $404 $-1 #
+loop $637 -1 -1 $-1 $-1 $403 $390 T -3 -3.0000000000000902 203.25 3 -3.00000000000006 342.94999999999999 periphery $615 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $259 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 404 #
+vertex $638 -1 -1 $-1 $636 $639 #
+vertex $640 -1 -1 $-1 $400 $641 #
+straight-curve $-1 -1 -1 $-1 -3 -3.0000000000000902 342.94999999999999 0 -1.8278546575789999e-15 10 F -13.969999999999999 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $642 $260 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $643 $261 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $644 $262 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $645 $263 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $646 $-1 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $647 -1 -1 $-1 $648 $428 $45 $-1 $649 forward single T -12.699999999999999 8.9802561210690808 154.490128060535 12.699999999999999 13.4703841816037 158.98025612106926 F #
+loop $650 -1 -1 $-1 $-1 $651 $264 T -12.699999999999999 -8.9802561210691199 141.0197438789308 12.699999999999999 8.9802561210690808 158.980256121069 periphery $416 F #
+plane-surface $-1 -1 -1 $-1 0 8.9802561210690808 158.980256121069 0 -0.70710678118655101 0.70710678118654402 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $265 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $652 $653 $654 $655 forward $265 $-1 #
+coedge $-1 -1 -1 $-1 $654 $268 $656 $657 reversed $175 $-1 #
+coedge $-1 -1 -1 $-1 $268 $654 $269 $424 reversed $175 $-1 #
+coedge $-1 -1 -1 $-1 $271 $658 $268 $422 forward $428 $-1 #
+edge $659 -1 -1 $-1 $660 -1.27 $431 1.27 $268 $661 forward @7 unknown T -12.699999999999999 13.4703841816037 154.490128060535 12.699999999999999 13.4703841816037 154.490128060535 #
+coedge $-1 -1 -1 $-1 $270 $269 $653 $662 forward $111 $-1 #
+edge $663 -1 -1 $-1 $431 -2.5400000000000404 $664 0 $269 $665 forward @7 unknown T -12.699999999999999 -4.49012806053448 136.529615818396 -12.699999999999999 13.470384181604022 154.490128060535 #
+coedge $-1 -1 -1 $-1 $651 $666 $270 $426 reversed $415 $-1 #
+edge $667 -1 -1 $-1 $668 -2.5399999999999716 $430 0 $270 $669 forward @7 unknown T -12.699999999999999 -8.9802561210691199 141.0197438789308 -12.699999999999999 8.9802561210690808 158.980256121069 #
+coedge $-1 -1 -1 $-1 $658 $271 $666 $670 forward $428 $-1 #
+loop $671 -1 -1 $-1 $-1 $427 $414 T -12.699999999999999 8.9802561210690808 154.490128060535 12.699999999999999 13.4703841816037 158.98025612106926 periphery $649 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $272 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 416 #
+vertex $672 -1 -1 $-1 $426 $673 #
+vertex $674 -1 -1 $-1 $422 $675 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 13.4703841816037 154.490128060535 0 7.0710678118655501 -7.0710678118654 F -0.63499999999996259 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $676 $273 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $677 $274 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $678 $275 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $679 $276 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $680 $-1 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $681 -1 -1 $-1 $682 $452 $48 $-1 $683 forward single T -12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 8.9802561210691643 58.980256121069203 F #
+loop $684 -1 -1 $-1 $-1 $685 $277 T -12.699999999999999 8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 45.509871939465427 periphery $440 F #
+plane-surface $-1 -1 -1 $-1 0 8.9802561210691607 41.019743878930903 0 0.70710678118654802 -0.70710678118654702 -1 0 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $278 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $686 $687 $688 $689 forward $278 $-1 #
+coedge $-1 -1 -1 $-1 $688 $281 $690 $691 reversed $184 $-1 #
+coedge $-1 -1 -1 $-1 $281 $688 $282 $448 reversed $184 $-1 #
+coedge $-1 -1 -1 $-1 $284 $692 $281 $446 forward $452 $-1 #
+edge $693 -1 -1 $-1 $694 -1.27 $455 1.27 $281 $695 forward @7 unknown T -12.699999999999999 -8.9802561210691607 58.980256121069203 12.699999999999999 -8.9802561210691607 58.980256121069203 #
+coedge $-1 -1 -1 $-1 $283 $282 $687 $696 forward $117 $-1 #
+edge $697 -1 -1 $-1 $455 -0.63499999999999379 $698 0 $282 $699 forward @7 unknown T -12.699999999999999 -8.9802561210691607 58.980256121069168 -12.699999999999999 -4.4901280605345901 63.470384181603698 #
+coedge $-1 -1 -1 $-1 $685 $700 $283 $450 reversed $439 $-1 #
+edge $701 -1 -1 $-1 $702 -0.63499999999999157 $454 0 $283 $703 forward @7 unknown T -12.699999999999999 8.9802561210691607 41.019743878930903 -12.699999999999999 13.4703841816037 45.509871939465427 #
+coedge $-1 -1 -1 $-1 $692 $284 $700 $704 forward $452 $-1 #
+loop $705 -1 -1 $-1 $-1 $451 $438 T -12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 8.9802561210691643 58.980256121069203 periphery $683 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $285 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 428 #
+vertex $706 -1 -1 $-1 $450 $707 #
+vertex $708 -1 -1 $-1 $448 $709 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -8.9802561210691607 58.980256121069203 0 -7.0710678118654799 7.0710678118654702 F -2.5400000000000005 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $710 $286 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $711 $287 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $712 $288 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $713 $289 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $714 $-1 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $715 -1 -1 $-1 $716 $476 $51 $-1 $717 forward single T -12.699999999999999 -63.47038418160399 145.509871939465 12.699999999999999 -45.509871939465498 163.470384181604 F #
+loop $718 -1 -1 $-1 $-1 $719 $290 T -12.699999999999999 -63.470384181603698 141.01974387893074 12.699999999999999 -58.980256121069097 145.509871939465 periphery $464 F #
+plane-surface $-1 -1 -1 $-1 0 -63.470384181603698 145.509871939465 0 -0.70710678118654002 -0.70710678118655501 0 -0.70710678118655501 0.70710678118654002 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $291 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $720 $721 $722 $723 forward $291 $-1 #
+coedge $-1 -1 -1 $-1 $722 $294 $724 $725 reversed $193 $-1 #
+coedge $-1 -1 -1 $-1 $294 $722 $295 $472 reversed $193 $-1 #
+coedge $-1 -1 -1 $-1 $297 $726 $294 $470 forward $476 $-1 #
+edge $727 -1 -1 $-1 $728 -1.27 $479 1.27 $294 $729 forward @7 unknown T -12.699999999999999 -45.509871939465498 163.470384181604 12.699999999999999 -45.509871939465498 163.470384181604 #
+coedge $-1 -1 -1 $-1 $296 $295 $721 $730 forward $123 $-1 #
+edge $731 -1 -1 $-1 $479 -0.6350000000000311 $732 0 $295 $733 forward @7 unknown T -12.699999999999999 -45.509871939465725 158.980256121069 -12.699999999999999 -41.019743878930903 163.470384181604 #
+coedge $-1 -1 -1 $-1 $719 $734 $296 $474 reversed $463 $-1 #
+edge $735 -1 -1 $-1 $736 -0.63499999999996137 $478 0 $296 $737 forward @7 unknown T -12.699999999999999 -63.470384181603698 141.01974387893074 -12.699999999999999 -58.980256121069097 145.509871939465 #
+coedge $-1 -1 -1 $-1 $726 $297 $734 $738 forward $476 $-1 #
+loop $739 -1 -1 $-1 $-1 $475 $462 T -12.699999999999999 -63.47038418160399 145.509871939465 12.699999999999999 -45.509871939465498 163.470384181604 periphery $717 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $298 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 440 #
+vertex $740 -1 -1 $-1 $474 $741 #
+vertex $742 -1 -1 $-1 $472 $743 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -45.509871939465498 163.470384181604 0 7.0710678118654302 7.0710678118655199 F -2.5400000000000418 F 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $744 $299 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_2 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $745 $300 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $746 $301 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $747 $302 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $748 $-1 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+face $749 -1 -1 $-1 $750 $500 $54 $-1 $751 forward single T -12.699999999999999 -63.470384181603734 54.490128060534602 12.699999999999999 -58.980256121069203 58.980256121069203 F #
+loop $752 -1 -1 $-1 $-1 $753 $303 T -12.699999999999999 -63.470384181603698 36.529615818396302 12.699999999999999 -45.509871939465455 54.490128060534602 periphery $488 F #
+plane-surface $-1 -1 -1 $-1 0 -63.470384181603698 54.490128060534602 0 -0.70710678118654802 -0.70710678118654702 0 0.70710678118654702 -0.70710678118654802 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $304 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $754 $755 $756 $757 forward $304 $-1 #
+coedge $-1 -1 -1 $-1 $756 $307 $758 $759 reversed $202 $-1 #
+coedge $-1 -1 -1 $-1 $307 $756 $308 $496 reversed $202 $-1 #
+coedge $-1 -1 -1 $-1 $310 $760 $307 $494 forward $500 $-1 #
+edge $761 -1 -1 $-1 $762 -1.27 $503 1.27 $307 $763 forward @7 unknown T -12.699999999999999 -58.980256121069203 58.980256121069203 12.699999999999999 -58.980256121069203 58.980256121069203 #
+coedge $-1 -1 -1 $-1 $309 $308 $755 $764 forward $129 $-1 #
+edge $765 -1 -1 $-1 $503 -2.5400000000000142 $766 0 $308 $767 forward @7 unknown T -12.699999999999999 -58.980256121069203 41.019743878930797 -12.699999999999999 -41.019743878930797 58.980256121069218 #
+coedge $-1 -1 -1 $-1 $753 $768 $309 $498 reversed $487 $-1 #
+edge $769 -1 -1 $-1 $770 -2.539999999999992 $502 0 $309 $771 forward @7 unknown T -12.699999999999999 -63.470384181603698 36.529615818396302 -12.699999999999999 -45.509871939465455 54.490128060534602 #
+coedge $-1 -1 -1 $-1 $760 $310 $768 $772 forward $500 $-1 #
+loop $773 -1 -1 $-1 $-1 $499 $486 T -12.699999999999999 -63.470384181603734 54.490128060534602 12.699999999999999 -58.980256121069203 58.980256121069203 periphery $751 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $311 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 452 #
+vertex $774 -1 -1 $-1 $498 $775 #
+vertex $776 -1 -1 $-1 $311 $777 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -58.980256121069203 58.980256121069203 0 7.0710678118654506 7.0710678118655004 F -0.63499999999999601 F 0 #
+coedge $-1 -1 -1 $-1 $313 $312 $-1 $778 forward $132 $-1 #
+edge $-1 -1 -1 $-1 $509 0 $779 10000 $312 $780 forward @7 unknown T 750 -5000 0 750 5000 0 #
+edge $-1 -1 -1 $-1 $781 0 $508 10000 $313 $782 forward @7 unknown T -750 -5000 0 -750 5000 0 #
+vertex $-1 -1 -1 $-1 $314 $783 #
+vertex $-1 -1 -1 $-1 $314 $784 #
+straight-curve $-1 -1 -1 $-1 -750 -5000 0 1 0 0 I I #
+position_attrib-name_attrib-gen-attrib $-1 -1 $785 $315 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 8.8817841970012523e-16 1.634803403760543e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $786 $316 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $787 $317 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $788 $318 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $789 $319 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $790 $-1 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $791 -1 -1 $-1 $-1 $792 $33 $-1 $793 forward single T 1.5 -1.590990257670033 199.11611652351675 1.5 0.88388347648319099 201.59099025767 F #
+plane-surface $-1 -1 -1 $-1 0 0.88388347648319099 200.88388347648299 0 0.70710678118654702 0.70710678118654802 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $321 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $794 $331 $795 $796 forward $321 $-1 #
+coedge $-1 -1 -1 $-1 $795 $324 $797 $798 reversed $213 $-1 #
+coedge $-1 -1 -1 $-1 $324 $795 $329 $531 reversed $213 $-1 #
+coedge $-1 -1 -1 $-1 $326 $325 $324 $524 reversed $139 $-1 #
+edge $799 -1 -1 $-1 $533 -0.14999999999999999 $800 0.14999999999999999 $523 $801 forward @7 unknown T -1.5 -0.88388347648320897 199.11611652351701 1.5 -0.88388347648320897 199.11611652351701 #
+coedge $-1 -1 -1 $-1 $802 $797 $325 $526 forward $792 $-1 #
+edge $803 -1 -1 $-1 $800 0 $529 0.24999999999997505 $325 $804 forward @7 unknown T 1.5 -0.88388347648320897 199.11611652351701 1.5 0.88388347648319099 200.88388347648322 #
+coedge $-1 -1 -1 $-1 $327 $333 $802 $805 reversed $334 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $328 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 375 #
+vertex $806 -1 -1 $-1 $805 $807 #
+straight-curve $-1 -1 -1 $-1 0 0.88388347648319099 200.88388347648299 -10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+edge $808 -1 -1 $-1 $533 -0.099999999999959038 $537 0 $329 $809 forward @7 unknown T -1.5 -1.5909902576697399 199.11611652351675 -1.5 -0.88388347648320897 199.82322330470299 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $330 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 372 #
+vertex $810 -1 -1 $-1 $531 $811 #
+straight-curve $-1 -1 -1 $-1 -1.5 -0.88388347648320897 199.11611652351701 0 -7.07106781186544 -7.0710678118655101 F -0.24999999999997505 F 0 #
+coedge $-1 -1 -1 $-1 $331 $794 $333 $539 reversed $321 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $332 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 374 #
+vertex $812 -1 -1 $-1 $531 $813 #
+straight-curve $-1 -1 -1 $-1 -1.5 0.17677669529668 201.59099025767 0 7.0710678118654702 7.0710678118654799 F -0.25000000000004885 F 0 #
+edge $814 -1 -1 $-1 $336 -0.14999999999999999 $815 0.14999999999999999 $535 $816 forward @7 unknown T -1.5 0.17677669529668 201.59099025767 1.5 0.17677669529668 201.59099025767 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $334 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $336 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 309 #
+point $-1 -1 -1 $-1 -1.5 0.17677669529668 201.59099025767 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $337 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 310 #
+point $-1 -1 -1 $-1 -1.5 0.88388347648319099 200.88388347648299 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $817 $339 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $818 $340 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $819 $341 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $820 $342 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $821 $343 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $822 $-1 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $823 -1 -1 $-1 $-1 $824 $36 $-1 $825 forward single T 1.5 4.1650881556373296 198.49127293567901 1.5 5.8008376706519504 201.24990801921848 F #
+plane-surface $-1 -1 -1 $-1 0 5.8008376706517399 200.991088974116 0 0.25881904510253212 0.96592582628906531 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $345 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $826 $355 $827 $828 forward $345 $-1 #
+coedge $-1 -1 -1 $-1 $827 $348 $829 $830 reversed $226 $-1 #
+coedge $-1 -1 -1 $-1 $348 $827 $353 $565 reversed $226 $-1 #
+coedge $-1 -1 -1 $-1 $350 $349 $348 $558 reversed $148 $-1 #
+edge $831 -1 -1 $-1 $567 -0.14999999999999999 $832 0.14999999999999999 $557 $833 forward @7 unknown T -1.5 5.1310139819264 198.49127293567901 1.5 5.1310139819264 198.49127293567901 #
+coedge $-1 -1 -1 $-1 $834 $829 $349 $560 forward $824 $-1 #
+edge $835 -1 -1 $-1 $832 0 $563 0.25880000000008552 $349 $836 forward @7 unknown T 1.5 5.1310139819264 198.49127293567901 1.5 5.8008376706519504 200.991088974116 #
+coedge $-1 -1 -1 $-1 $351 $357 $834 $837 reversed $358 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $352 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 387 #
+vertex $838 -1 -1 $-1 $352 $839 #
+straight-curve $-1 -1 -1 $-1 0 5.8008376706517399 200.991088974116 -10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+edge $840 -1 -1 $-1 $567 -0.1000000000000125 $571 0 $353 $841 forward @7 unknown T -1.5 4.1650881556373296 198.49127293567901 -1.5 5.1310139819265155 198.750091980782 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $354 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 384 #
+vertex $842 -1 -1 $-1 $565 $843 #
+straight-curve $-1 -1 -1 $-1 -1.5 5.1310139819264 198.49127293567901 0 -2.5881904510252296 -9.6592582628906776 F -0.25880000000008552 F 0 #
+coedge $-1 -1 -1 $-1 $355 $826 $357 $573 reversed $345 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $356 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 386 #
+vertex $844 -1 -1 $-1 $565 $845 #
+straight-curve $-1 -1 -1 $-1 -1.5 4.8349118443626704 201.249908019218 0 2.5881904510252096 9.6592582628906793 F -0.25879999999998948 F 0 #
+edge $846 -1 -1 $-1 $360 -0.14999999999999999 $847 0.14999999999999999 $569 $848 forward @7 unknown T -1.5 4.8349118443626704 201.249908019218 1.5 4.8349118443626704 201.249908019218 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $358 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $360 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 317 #
+point $-1 -1 -1 $-1 -1.5 4.8349118443626704 201.249908019218 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $361 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 318 #
+point $-1 -1 -1 $-1 -1.5 5.8008376706517399 200.991088974116 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $849 $363 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_MAT_CATALOG @10 1V94W4RUFG #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $850 $364 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $851 $365 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $852 $366 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $853 $367 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $854 $-1 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+loop $855 -1 -1 $-1 $-1 $856 $368 T 3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 periphery $586 F #
+plane-surface $-1 -1 -1 $-1 3 -6.1617377866696201e-14 202.471019057875 1 0 0 0 1 -0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $369 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $600 $372 $857 $858 reversed $239 $-1 #
+coedge $-1 -1 -1 $-1 $374 $373 $372 $590 reversed $157 $-1 #
+edge $859 -1 -1 $-1 $598 -0.29999999999999999 $860 0.29999999999999999 $589 $861 forward @7 unknown T -3 2.99999999999994 203 3 2.99999999999994 203 #
+coedge $-1 -1 -1 $-1 $856 $857 $373 $592 forward $585 $-1 #
+edge $862 -1 -1 $-1 $860 0 $595 0.59999999999999998 $373 $863 forward @7 unknown T 3 -3.00000000000006 203 3 2.99999999999994 203 #
+coedge $-1 -1 -1 $-1 $375 $380 $856 $864 reversed $369 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $376 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 398 #
+vertex $865 -1 -1 $-1 $376 $866 #
+straight-curve $-1 -1 -1 $-1 0 -3.00000000000006 203 -10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $377 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 396 #
+vertex $867 -1 -1 $-1 $377 $868 #
+straight-curve $-1 -1 -1 $-1 -3 2.99999999999994 203 0 10 0 F -0.59999999999999998 F 0 #
+coedge $-1 -1 -1 $-1 $378 $588 $380 $603 reversed $239 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $379 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 397 #
+straight-curve $-1 -1 -1 $-1 -3 -3.00000000000006 201.942038115749 0 -9.8480775301220742 -1.7364817766693408 F -0.6092559671314508 F 0 #
+edge $869 -1 -1 $-1 $382 -0.29999999999999999 $870 0.29999999999999999 $600 $871 forward @7 unknown T -3 -3.00000000000006 201.942038115749 3 -3.00000000000006 201.942038115749 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $382 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 325 #
+point $-1 -1 -1 $-1 -3 -3.00000000000006 201.942038115749 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $383 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 326 #
+point $-1 -1 -1 $-1 -3 -3.00000000000006 203 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $872 $385 $3 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $873 $386 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+real_attrib-name_attrib-gen-attrib $-1 -1 $874 $387 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $875 $388 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $876 $389 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $877 $-1 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 2 #
+face $878 -1 -1 $-1 $-1 $879 $42 $-1 $880 forward single T 3 -3.0000000000000902 203.25 3 2.99999999999994 342.94999999999999 F #
+plane-surface $-1 -1 -1 $-1 0 -3.0000000000000902 342.94999999999999 0 -1 -1.827854657579e-16 0 1.827854657579e-16 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $391 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $881 $401 $882 $883 forward $391 $-1 #
+coedge $-1 -1 -1 $-1 $882 $394 $884 $885 reversed $252 $-1 #
+coedge $-1 -1 -1 $-1 $394 $882 $399 $628 reversed $252 $-1 #
+coedge $-1 -1 -1 $-1 $396 $395 $394 $621 reversed $166 $-1 #
+edge $886 -1 -1 $-1 $630 -0.29999999999999999 $887 0.29999999999999999 $620 $888 forward @7 unknown T -3 2.9999999999999001 342.94999999999999 3 2.9999999999999001 342.94999999999999 #
+coedge $-1 -1 -1 $-1 $889 $884 $395 $623 forward $879 $-1 #
+edge $890 -1 -1 $-1 $887 0 $626 0.59999999999999898 $395 $891 forward @7 unknown T 3 -3.0000000000000902 342.94999999999999 3 2.9999999999999001 342.94999999999999 #
+coedge $-1 -1 -1 $-1 $397 $403 $889 $892 reversed $404 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $398 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 408 #
+vertex $893 -1 -1 $-1 $623 $894 #
+straight-curve $-1 -1 -1 $-1 0 -3.0000000000000902 342.94999999999999 -10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+edge $895 -1 -1 $-1 $630 -13.969999999999999 $634 0 $399 $896 forward @7 unknown T -3 2.9999999999998974 203.25 -3 2.99999999999994 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $400 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 405 #
+vertex $897 -1 -1 $-1 $400 $898 #
+straight-curve $-1 -1 -1 $-1 -3 2.9999999999999001 342.94999999999999 0 10 0 F -0.59999999999999898 F 0 #
+coedge $-1 -1 -1 $-1 $401 $881 $403 $636 reversed $391 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $402 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 407 #
+vertex $899 -1 -1 $-1 $883 $900 #
+straight-curve $-1 -1 -1 $-1 -3 -3.00000000000006 203.25 0 -10 0 F -0.59999999999999998 F 0 #
+edge $901 -1 -1 $-1 $406 -0.29999999999999999 $902 0.29999999999999999 $632 $903 forward @7 unknown T -3 -3.00000000000006 203.25 3 -3.00000000000006 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $404 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $406 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 331 #
+point $-1 -1 -1 $-1 -3 -3.00000000000006 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $407 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 332 #
+point $-1 -1 -1 $-1 -3 -3.0000000000000902 342.94999999999999 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $904 $409 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $905 $410 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $906 $411 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $907 $412 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $908 $413 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $909 $-1 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $910 -1 -1 $-1 $-1 $911 $45 $-1 $912 forward single T 12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 13.470384181604022 158.98025612106926 F #
+plane-surface $-1 -1 -1 $-1 0 13.4703841816037 154.490128060535 0 0.70710678118654002 0.70710678118655501 1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $415 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $913 $425 $914 $915 forward $415 $-1 #
+coedge $-1 -1 -1 $-1 $914 $418 $916 $917 reversed $265 $-1 #
+coedge $-1 -1 -1 $-1 $418 $914 $423 $662 reversed $265 $-1 #
+coedge $-1 -1 -1 $-1 $420 $419 $418 $655 reversed $175 $-1 #
+edge $918 -1 -1 $-1 $664 -1.27 $919 1.27 $654 $920 forward @7 unknown T -12.699999999999999 -4.49012806053448 136.529615818396 12.699999999999999 -4.49012806053448 136.529615818396 #
+coedge $-1 -1 -1 $-1 $921 $916 $419 $657 forward $911 $-1 #
+edge $922 -1 -1 $-1 $919 0 $660 2.5400000000000404 $419 $923 forward @7 unknown T 12.699999999999999 -4.49012806053448 136.529615818396 12.699999999999999 13.470384181604022 154.490128060535 #
+coedge $-1 -1 -1 $-1 $421 $427 $921 $924 reversed $428 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $422 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 420 #
+vertex $925 -1 -1 $-1 $924 $926 #
+straight-curve $-1 -1 -1 $-1 0 13.4703841816037 154.490128060535 -10 0 0 F -1.27 F 1.27 #
+edge $927 -1 -1 $-1 $664 -0.63500000000003443 $668 0 $423 $928 forward @7 unknown T -12.699999999999999 -8.9802561210691199 136.529615818396 -12.699999999999999 -4.4901280605342517 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $424 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 417 #
+vertex $929 -1 -1 $-1 $655 $930 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -4.49012806053448 136.529615818396 0 -7.07106781186544 -7.0710678118655101 F -2.5400000000000404 F 0 #
+coedge $-1 -1 -1 $-1 $425 $913 $427 $670 reversed $415 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $426 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 419 #
+vertex $931 -1 -1 $-1 $426 $932 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 8.9802561210690808 158.980256121069 0 7.07106781186544 7.0710678118655101 F -2.5399999999999716 F 0 #
+edge $933 -1 -1 $-1 $430 -1.27 $934 1.27 $666 $935 forward @7 unknown T -12.699999999999999 8.9802561210690808 158.980256121069 12.699999999999999 8.9802561210690808 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $428 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $430 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 339 #
+point $-1 -1 -1 $-1 -12.699999999999999 8.9802561210690808 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $431 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 340 #
+point $-1 -1 -1 $-1 -12.699999999999999 13.4703841816037 154.490128060535 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $936 $433 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $937 $434 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $938 $435 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $939 $436 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $940 $437 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $941 $-1 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $942 -1 -1 $-1 $-1 $943 $48 $-1 $944 forward single T 12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 63.470384181603698 F #
+plane-surface $-1 -1 -1 $-1 0 -8.9802561210691607 58.980256121069203 0 -0.70710678118654702 -0.70710678118654802 0 -0.70710678118654802 0.70710678118654702 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $439 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $945 $449 $946 $947 forward $439 $-1 #
+coedge $-1 -1 -1 $-1 $946 $442 $948 $949 reversed $278 $-1 #
+coedge $-1 -1 -1 $-1 $442 $946 $447 $696 reversed $278 $-1 #
+coedge $-1 -1 -1 $-1 $444 $443 $442 $689 reversed $184 $-1 #
+edge $950 -1 -1 $-1 $698 -1.27 $951 1.27 $688 $952 forward @7 unknown T -12.699999999999999 -4.4901280605345901 63.470384181603698 12.699999999999999 -4.4901280605345901 63.470384181603698 #
+coedge $-1 -1 -1 $-1 $953 $948 $443 $691 forward $943 $-1 #
+edge $954 -1 -1 $-1 $951 0 $694 0.63499999999999379 $443 $955 forward @7 unknown T 12.699999999999999 -8.9802561210691607 58.980256121069168 12.699999999999999 -4.4901280605345901 63.470384181603698 #
+coedge $-1 -1 -1 $-1 $445 $451 $953 $956 reversed $452 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $446 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 432 #
+vertex $957 -1 -1 $-1 $956 $958 #
+straight-curve $-1 -1 -1 $-1 0 -8.9802561210691607 58.980256121069203 -10 0 0 F -1.27 F 1.27 #
+edge $959 -1 -1 $-1 $698 -2.5399999999999983 $702 0 $447 $960 forward @7 unknown T -12.699999999999999 -4.490128060534607 45.509871939465398 -12.699999999999999 13.4703841816037 63.470384181603698 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $448 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 429 #
+vertex $961 -1 -1 $-1 $448 $962 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -4.4901280605345901 63.470384181603698 0 7.0710678118654799 7.0710678118654702 F -0.63499999999999379 F 0 #
+coedge $-1 -1 -1 $-1 $449 $945 $451 $704 reversed $439 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $450 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 431 #
+vertex $963 -1 -1 $-1 $450 $964 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 8.9802561210691607 41.019743878930903 0 -7.0710678118654702 -7.0710678118654799 F -0.63499999999999157 F 0 #
+edge $965 -1 -1 $-1 $454 -1.27 $966 1.27 $700 $967 forward @7 unknown T -12.699999999999999 8.9802561210691607 41.019743878930903 12.699999999999999 8.9802561210691607 41.019743878930903 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $452 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $454 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 347 #
+point $-1 -1 -1 $-1 -12.699999999999999 8.9802561210691607 41.019743878930903 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $455 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 348 #
+point $-1 -1 -1 $-1 -12.699999999999999 -8.9802561210691607 58.980256121069203 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $968 $457 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $969 $458 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $970 $459 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $971 $460 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $972 $461 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $973 $-1 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $974 -1 -1 $-1 $-1 $975 $51 $-1 $976 forward single T 12.699999999999999 -63.47038418160399 141.01974387893074 12.699999999999999 -41.019743878930903 163.470384181604 F #
+plane-surface $-1 -1 -1 $-1 0 -45.509871939465498 163.470384181604 0 -0.70710678118655201 0.70710678118654302 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $463 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $977 $473 $978 $979 forward $463 $-1 #
+coedge $-1 -1 -1 $-1 $978 $466 $980 $981 reversed $291 $-1 #
+coedge $-1 -1 -1 $-1 $466 $978 $471 $730 reversed $291 $-1 #
+coedge $-1 -1 -1 $-1 $468 $467 $466 $723 reversed $193 $-1 #
+edge $982 -1 -1 $-1 $732 -1.27 $983 1.27 $722 $984 forward @7 unknown T -12.699999999999999 -41.019743878930903 158.980256121069 12.699999999999999 -41.019743878930903 158.980256121069 #
+coedge $-1 -1 -1 $-1 $985 $980 $467 $725 forward $975 $-1 #
+edge $986 -1 -1 $-1 $983 0 $728 0.6350000000000311 $467 $987 forward @7 unknown T 12.699999999999999 -45.509871939465725 158.980256121069 12.699999999999999 -41.019743878930903 163.470384181604 #
+coedge $-1 -1 -1 $-1 $469 $475 $985 $988 reversed $476 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $470 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 444 #
+vertex $989 -1 -1 $-1 $988 $990 #
+straight-curve $-1 -1 -1 $-1 0 -45.509871939465498 163.470384181604 -10 0 0 F -1.27 F 1.27 #
+edge $991 -1 -1 $-1 $732 -2.5399999999999707 $736 0 $471 $992 forward @7 unknown T -12.699999999999999 -58.980256121069097 141.019743878931 -12.699999999999999 -41.019743878930903 158.98025612106917 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $472 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 441 #
+vertex $993 -1 -1 $-1 $723 $994 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -41.019743878930903 158.980256121069 0 7.0710678118655199 -7.0710678118654302 F -0.6350000000000311 F 0 #
+coedge $-1 -1 -1 $-1 $473 $977 $475 $738 reversed $463 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $474 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 443 #
+vertex $995 -1 -1 $-1 $979 $996 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -63.470384181603698 145.509871939465 0 -7.0710678118655501 7.0710678118654 F -0.63499999999996137 F 0 #
+edge $997 -1 -1 $-1 $478 -1.27 $998 1.27 $734 $999 forward @7 unknown T -12.699999999999999 -63.470384181603698 145.509871939465 12.699999999999999 -63.470384181603698 145.509871939465 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $476 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $478 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 355 #
+point $-1 -1 -1 $-1 -12.699999999999999 -63.470384181603698 145.509871939465 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $479 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 356 #
+point $-1 -1 -1 $-1 -12.699999999999999 -45.509871939465498 163.470384181604 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1000 $481 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_1 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1001 $482 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1002 $483 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1003 $484 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1004 $485 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1005 $-1 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 4 #
+face $1006 -1 -1 $-1 $-1 $1007 $54 $-1 $1008 forward single T 12.699999999999999 -63.470384181603734 36.529615818396302 12.699999999999999 -41.019743878930797 58.980256121069218 F #
+plane-surface $-1 -1 -1 $-1 0 -58.980256121069203 58.980256121069203 0 -0.70710678118655002 0.70710678118654502 -1 -0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $487 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $1009 $497 $1010 $1011 forward $487 $-1 #
+coedge $-1 -1 -1 $-1 $1010 $490 $1012 $1013 reversed $304 $-1 #
+coedge $-1 -1 -1 $-1 $490 $1010 $495 $764 reversed $304 $-1 #
+coedge $-1 -1 -1 $-1 $492 $491 $490 $757 reversed $202 $-1 #
+edge $1014 -1 -1 $-1 $766 -1.27 $1015 1.27 $756 $1016 forward @7 unknown T -12.699999999999999 -41.019743878930797 41.019743878930797 12.699999999999999 -41.019743878930797 41.019743878930797 #
+coedge $-1 -1 -1 $-1 $1017 $1012 $491 $759 forward $1007 $-1 #
+edge $1018 -1 -1 $-1 $1015 0 $762 2.5400000000000142 $491 $1019 forward @7 unknown T 12.699999999999999 -58.980256121069203 41.019743878930797 12.699999999999999 -41.019743878930797 58.980256121069218 #
+coedge $-1 -1 -1 $-1 $493 $499 $1017 $1020 reversed $500 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $494 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 456 #
+vertex $1021 -1 -1 $-1 $1020 $1022 #
+straight-curve $-1 -1 -1 $-1 0 -58.980256121069203 58.980256121069203 -10 0 0 F -1.27 F 1.27 #
+edge $1023 -1 -1 $-1 $766 -0.63500000000000301 $770 0 $495 $1024 forward @7 unknown T -12.699999999999999 -45.509871939465498 36.529615818396302 -12.699999999999999 -41.019743878930797 41.019743878930875 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $496 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 453 #
+vertex $1025 -1 -1 $-1 $757 $1026 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -41.019743878930797 41.019743878930797 0 7.0710678118654702 -7.0710678118654799 F -2.5400000000000142 F 0 #
+coedge $-1 -1 -1 $-1 $497 $1009 $499 $772 reversed $487 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $498 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 455 #
+vertex $1027 -1 -1 $-1 $498 $1028 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -63.470384181603698 54.490128060534602 0 -7.0710678118654702 7.0710678118654799 F -2.539999999999992 F 0 #
+edge $1029 -1 -1 $-1 $502 -1.27 $1030 1.27 $768 $1031 forward @7 unknown T -12.699999999999999 -63.470384181603698 54.490128060534602 12.699999999999999 -63.470384181603698 54.490128060534602 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $500 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $502 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 363 #
+point $-1 -1 -1 $-1 -12.699999999999999 -63.470384181603698 54.490128060534602 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $503 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 364 #
+point $-1 -1 -1 $-1 -12.699999999999999 -58.980256121069203 58.980256121069203 #
+edge $-1 -1 -1 $-1 $779 0 $781 1500 $505 $1032 forward @7 unknown T -750 5000 0 750 5000 0 #
+vertex $-1 -1 -1 $-1 $506 $1033 #
+straight-curve $-1 -1 -1 $-1 750 -5000 0 0 1 0 I I #
+vertex $-1 -1 -1 $-1 $778 $1034 #
+straight-curve $-1 -1 -1 $-1 -750 5000 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -750 -5000 0 #
+point $-1 -1 -1 $-1 750 -5000 0 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1035 $511 $0 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 8.8817841970012523e-16 1.634803403760543e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1036 $512 $59 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1037 $513 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1038 $514 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1039 $515 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1040 $516 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1041 $-1 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1042 -1 -1 $-1 $-1 $802 $517 T 1.5 -1.590990257670033 199.11611652351675 1.5 0.88388347648319099 201.59099025767 periphery $793 F #
+plane-surface $-1 -1 -1 $-1 1.5 -0.35355339059327301 200.35355339059299 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $535 $520 $1043 $1044 reversed $321 $-1 #
+coedge $-1 -1 -1 $-1 $522 $521 $520 $796 reversed $213 $-1 #
+edge $1045 -1 -1 $-1 $537 -0.14999999999999999 $1046 0.14999999999999999 $795 $1047 forward @7 unknown T -1.5 -1.5909902576697399 199.82322330470299 1.5 -1.5909902576697399 199.82322330470299 #
+coedge $-1 -1 -1 $-1 $525 $1043 $521 $798 forward $792 $-1 #
+edge $1048 -1 -1 $-1 $1046 0 $800 0.099999999999959038 $521 $1049 forward @7 unknown T 1.5 -1.5909902576697399 199.11611652351675 1.5 -0.88388347648320897 199.82322330470299 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $524 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 377 #
+vertex $1050 -1 -1 $-1 $798 $1051 #
+straight-curve $-1 -1 -1 $-1 0 -0.88388347648320897 199.11611652351701 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1043 $525 $527 $805 forward $792 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $526 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 376 #
+straight-curve $-1 -1 -1 $-1 1.5 -0.88388347648320897 199.11611652351701 0 7.07106781186544 7.0710678118655101 F 0 F 0.24999999999997505 #
+edge $1052 -1 -1 $-1 $529 0 $815 0.10000000000002998 $527 $1053 forward @7 unknown T 1.5 0.17677669529643103 200.88388347648299 1.5 0.88388347648319099 201.59099025767 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $529 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 313 #
+point $-1 -1 -1 $-1 1.5 0.88388347648319099 200.88388347648299 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $531 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 373 #
+straight-curve $-1 -1 -1 $-1 -1.5 -1.5909902576697399 199.82322330470299 0 -7.0710678118655599 7.0710678118653902 F -0.099999999999959038 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $533 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 311 #
+point $-1 -1 -1 $-1 -1.5 -0.88388347648320897 199.11611652351701 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $537 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 312 #
+point $-1 -1 -1 $-1 -1.5 -1.5909902576697399 199.82322330470299 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $539 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 381 #
+vertex $1054 -1 -1 $-1 $805 $1055 #
+straight-curve $-1 -1 -1 $-1 0 0.17677669529668 201.59099025767 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1056 $545 $1 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1057 $546 $62 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1058 $547 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1059 $548 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1060 $549 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1061 $550 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1062 $-1 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1063 -1 -1 $-1 $-1 $834 $551 T 1.5 4.1650881556373296 198.49127293567901 1.5 5.8008376706519504 201.24990801921848 periphery $825 F #
+plane-surface $-1 -1 -1 $-1 1.5 4.9829629131445303 199.87059047744901 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $569 $554 $1064 $1065 reversed $345 $-1 #
+coedge $-1 -1 -1 $-1 $556 $555 $554 $828 reversed $226 $-1 #
+edge $1066 -1 -1 $-1 $571 -0.14999999999999999 $1067 0.14999999999999999 $827 $1068 forward @7 unknown T -1.5 4.1650881556373296 198.750091980782 1.5 4.1650881556373296 198.750091980782 #
+coedge $-1 -1 -1 $-1 $559 $1064 $555 $830 forward $824 $-1 #
+edge $1069 -1 -1 $-1 $1067 0 $832 0.1000000000000125 $555 $1070 forward @7 unknown T 1.5 4.1650881556373296 198.49127293567901 1.5 5.1310139819265155 198.750091980782 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $558 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 389 #
+vertex $1071 -1 -1 $-1 $830 $1072 #
+straight-curve $-1 -1 -1 $-1 0 5.1310139819264 198.49127293567901 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1064 $559 $561 $837 forward $824 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $560 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 388 #
+straight-curve $-1 -1 -1 $-1 1.5 5.1310139819264 198.49127293567901 0 2.5881904510252296 9.6592582628906776 F 0 F 0.25880000000008552 #
+edge $1073 -1 -1 $-1 $563 0 $847 0.099999999999986655 $561 $1074 forward @7 unknown T 1.5 4.8349118443626704 200.991088974116 1.5 5.8008376706517399 201.24990801921848 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $563 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 321 #
+point $-1 -1 -1 $-1 1.5 5.8008376706517399 200.991088974116 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $565 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 385 #
+straight-curve $-1 -1 -1 $-1 -1.5 4.1650881556373296 198.750091980782 0 -9.6592582628906474 2.5881904510253397 F -0.1000000000000125 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $567 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 319 #
+point $-1 -1 -1 $-1 -1.5 5.1310139819264 198.49127293567901 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $571 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 320 #
+point $-1 -1 -1 $-1 -1.5 4.1650881556373296 198.750091980782 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $573 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 393 #
+vertex $1075 -1 -1 $-1 $573 $1076 #
+straight-curve $-1 -1 -1 $-1 0 4.8349118443626704 201.249908019218 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1077 $579 $2 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1078 $580 $65 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1079 $581 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1080 $582 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1081 $583 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1082 $584 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $585 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $857 $591 $593 $864 forward $585 $-1 #
+coedge $-1 -1 -1 $-1 $591 $856 $588 $858 forward $585 $-1 #
+edge $1083 -1 -1 $-1 $870 0 $860 0.6092559671314508 $588 $1084 forward @7 unknown T 3 -3.00000000000006 201.942038115749 3 2.9999999999999738 203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $590 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 400 #
+vertex $1085 -1 -1 $-1 $858 $1086 #
+straight-curve $-1 -1 -1 $-1 0 2.99999999999994 203 10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $592 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 399 #
+straight-curve $-1 -1 -1 $-1 3 2.99999999999994 203 0 -10 0 F 0 F 0.59999999999999998 #
+edge $1087 -1 -1 $-1 $595 0 $870 0.10579618842510001 $593 $1088 forward @7 unknown T 3 -3.00000000000006 201.942038115749 3 -3.00000000000006 203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $595 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 328 #
+point $-1 -1 -1 $-1 3 -3.00000000000006 203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $598 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 327 #
+point $-1 -1 -1 $-1 -3 2.99999999999994 203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $603 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 402 #
+vertex $1089 -1 -1 $-1 $858 $1090 #
+straight-curve $-1 -1 -1 $-1 0 -3.00000000000006 201.942038115749 10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1091 $608 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @15 1V4CU4RR3CB5XC8 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1092 $609 $68 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1093 $610 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1094 $611 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1095 $612 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1096 $613 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1097 $-1 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 3 #
+loop $1098 -1 -1 $-1 $-1 $889 $614 T 3 -3.0000000000000902 203.25 3 2.99999999999994 342.94999999999999 periphery $880 F #
+plane-surface $-1 -1 -1 $-1 3 -7.4940054162198104e-14 273.10000000000002 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $632 $617 $1099 $1100 reversed $391 $-1 #
+coedge $-1 -1 -1 $-1 $619 $618 $617 $883 reversed $252 $-1 #
+edge $1101 -1 -1 $-1 $634 -0.29999999999999999 $1102 0.29999999999999999 $882 $1103 forward @7 unknown T -3 2.99999999999994 203.25 3 2.99999999999994 203.25 #
+coedge $-1 -1 -1 $-1 $622 $1099 $618 $885 forward $879 $-1 #
+edge $1104 -1 -1 $-1 $1102 0 $887 13.969999999999999 $618 $1105 forward @7 unknown T 3 2.9999999999998974 203.25 3 2.99999999999994 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $621 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 410 #
+vertex $1106 -1 -1 $-1 $885 $1107 #
+straight-curve $-1 -1 -1 $-1 0 2.9999999999999001 342.94999999999999 10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+coedge $-1 -1 -1 $-1 $1099 $622 $624 $892 forward $879 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $623 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 409 #
+straight-curve $-1 -1 -1 $-1 3 2.9999999999999001 342.94999999999999 0 -10 0 F 0 F 0.59999999999999898 #
+edge $1108 -1 -1 $-1 $626 0 $902 13.969999999999999 $624 $1109 forward @7 unknown T 3 -3.0000000000000902 203.25 3 -3.00000000000006 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $626 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 335 #
+point $-1 -1 -1 $-1 3 -3.0000000000000902 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $628 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 406 #
+straight-curve $-1 -1 -1 $-1 -3 2.99999999999994 203.25 0 3.0596697529039697e-15 -10 F -13.969999999999999 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $630 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 333 #
+point $-1 -1 -1 $-1 -3 2.9999999999999001 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $634 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 334 #
+point $-1 -1 -1 $-1 -3 2.99999999999994 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $636 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 414 #
+vertex $1110 -1 -1 $-1 $1100 $1111 #
+straight-curve $-1 -1 -1 $-1 0 -3.00000000000006 203.25 10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1112 $642 $4 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 -8.8817841970012523e-16 -2.656208586415687e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1113 $643 $71 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1114 $644 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1115 $645 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1116 $646 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1117 $647 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1118 $-1 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1119 -1 -1 $-1 $-1 $921 $648 T 12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 13.470384181604022 158.98025612106926 periphery $912 F #
+plane-surface $-1 -1 -1 $-1 12.699999999999999 2.2450640302672999 147.754935969733 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $666 $651 $1120 $1121 reversed $415 $-1 #
+coedge $-1 -1 -1 $-1 $653 $652 $651 $915 reversed $265 $-1 #
+edge $1122 -1 -1 $-1 $668 -1.27 $1123 1.27 $914 $1124 forward @7 unknown T -12.699999999999999 -8.9802561210691199 141.019743878931 12.699999999999999 -8.9802561210691199 141.019743878931 #
+coedge $-1 -1 -1 $-1 $656 $1120 $652 $917 forward $911 $-1 #
+edge $1125 -1 -1 $-1 $1123 0 $919 0.63500000000003443 $652 $1126 forward @7 unknown T 12.699999999999999 -8.9802561210691199 136.529615818396 12.699999999999999 -4.4901280605342517 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $655 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 422 #
+vertex $1127 -1 -1 $-1 $917 $1128 #
+straight-curve $-1 -1 -1 $-1 0 -4.49012806053448 136.529615818396 10 0 0 F -1.27 F 1.27 #
+coedge $-1 -1 -1 $-1 $1120 $656 $658 $924 forward $911 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $657 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 421 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -4.49012806053448 136.529615818396 0 7.07106781186544 7.0710678118655101 F 0 F 2.5400000000000404 #
+edge $1129 -1 -1 $-1 $660 0 $934 0.63499999999996259 $658 $1130 forward @7 unknown T 12.699999999999999 8.9802561210690808 154.490128060535 12.699999999999999 13.4703841816037 158.98025612106926 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $660 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 343 #
+point $-1 -1 -1 $-1 12.699999999999999 13.4703841816037 154.490128060535 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $662 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 418 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -8.9802561210691199 141.019743878931 0 -7.0710678118655501 7.0710678118654 F -0.63500000000003443 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $664 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 341 #
+point $-1 -1 -1 $-1 -12.699999999999999 -4.49012806053448 136.529615818396 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $668 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 342 #
+point $-1 -1 -1 $-1 -12.699999999999999 -8.9802561210691199 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $670 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 426 #
+vertex $1131 -1 -1 $-1 $1121 $1132 #
+straight-curve $-1 -1 -1 $-1 0 8.9802561210690808 158.980256121069 10 0 0 F -1.27 F 1.27 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1133 $676 $5 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1134 $677 $74 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1135 $678 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1136 $679 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1137 $680 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1138 $681 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1139 $-1 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1140 -1 -1 $-1 $-1 $953 $682 T 12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 63.470384181603698 periphery $944 F #
+plane-surface $-1 -1 -1 $-1 12.699999999999999 2.24506403026728 52.245064030267301 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $700 $685 $1141 $1142 reversed $439 $-1 #
+coedge $-1 -1 -1 $-1 $687 $686 $685 $947 reversed $278 $-1 #
+edge $1143 -1 -1 $-1 $702 -1.27 $1144 1.27 $946 $1145 forward @7 unknown T -12.699999999999999 13.4703841816037 45.509871939465398 12.699999999999999 13.4703841816037 45.509871939465398 #
+coedge $-1 -1 -1 $-1 $690 $1141 $686 $949 forward $943 $-1 #
+edge $1146 -1 -1 $-1 $1144 0 $951 2.5399999999999983 $686 $1147 forward @7 unknown T 12.699999999999999 -4.490128060534607 45.509871939465398 12.699999999999999 13.4703841816037 63.470384181603698 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $689 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 434 #
+vertex $1148 -1 -1 $-1 $949 $1149 #
+straight-curve $-1 -1 -1 $-1 0 -4.4901280605345901 63.470384181603698 10 0 0 F -1.27 F 1.27 #
+coedge $-1 -1 -1 $-1 $1141 $690 $692 $956 forward $943 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $691 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 433 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -4.4901280605345901 63.470384181603698 0 -7.0710678118654799 -7.0710678118654702 F 0 F 0.63499999999999379 #
+edge $1150 -1 -1 $-1 $694 0 $966 2.5400000000000005 $692 $1151 forward @7 unknown T 12.699999999999999 -8.9802561210691607 41.019743878930903 12.699999999999999 8.9802561210691643 58.980256121069203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $694 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 351 #
+point $-1 -1 -1 $-1 12.699999999999999 -8.9802561210691607 58.980256121069203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $696 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 430 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 13.4703841816037 45.509871939465398 0 7.0710678118654799 -7.0710678118654702 F -2.5399999999999983 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $698 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 349 #
+point $-1 -1 -1 $-1 -12.699999999999999 -4.4901280605345901 63.470384181603698 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $702 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 350 #
+point $-1 -1 -1 $-1 -12.699999999999999 13.4703841816037 45.509871939465398 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $704 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 438 #
+vertex $1152 -1 -1 $-1 $956 $1153 #
+straight-curve $-1 -1 -1 $-1 0 8.9802561210691607 41.019743878930903 10 0 0 F -1.27 F 1.27 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1154 $710 $6 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 1.1102230246251565e-14 -3.4194869158454821e-14 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1155 $711 $77 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1156 $712 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1157 $713 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1158 $714 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1159 $715 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1160 $-1 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1161 -1 -1 $-1 $-1 $985 $716 T 12.699999999999999 -63.47038418160399 141.01974387893074 12.699999999999999 -41.019743878930903 163.470384181604 periphery $976 F #
+plane-surface $-1 -1 -1 $-1 12.699999999999999 -52.245064030267301 152.245064030267 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $734 $719 $1162 $1163 reversed $463 $-1 #
+coedge $-1 -1 -1 $-1 $721 $720 $719 $979 reversed $291 $-1 #
+edge $1164 -1 -1 $-1 $736 -1.27 $1165 1.27 $978 $1166 forward @7 unknown T -12.699999999999999 -58.980256121069097 141.019743878931 12.699999999999999 -58.980256121069097 141.019743878931 #
+coedge $-1 -1 -1 $-1 $724 $1162 $720 $981 forward $975 $-1 #
+edge $1167 -1 -1 $-1 $1165 0 $983 2.5399999999999707 $720 $1168 forward @7 unknown T 12.699999999999999 -58.980256121069097 141.019743878931 12.699999999999999 -41.019743878930903 158.98025612106917 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $723 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 446 #
+vertex $1169 -1 -1 $-1 $723 $1170 #
+straight-curve $-1 -1 -1 $-1 0 -41.019743878930903 158.980256121069 10 0 0 F -1.27 F 1.27 #
+coedge $-1 -1 -1 $-1 $1162 $724 $726 $988 forward $975 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $725 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 445 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -41.019743878930903 158.980256121069 0 -7.0710678118655199 7.0710678118654302 F 0 F 0.6350000000000311 #
+edge $1171 -1 -1 $-1 $728 0 $998 2.5400000000000418 $726 $1172 forward @7 unknown T 12.699999999999999 -63.47038418160399 145.509871939465 12.699999999999999 -45.509871939465498 163.470384181604 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $728 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 359 #
+point $-1 -1 -1 $-1 12.699999999999999 -45.509871939465498 163.470384181604 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $730 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 442 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -58.980256121069097 141.019743878931 0 -7.07106781186544 -7.0710678118655101 F -2.5399999999999707 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $732 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 357 #
+point $-1 -1 -1 $-1 -12.699999999999999 -41.019743878930903 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $736 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 358 #
+point $-1 -1 -1 $-1 -12.699999999999999 -58.980256121069097 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $738 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 450 #
+vertex $1173 -1 -1 $-1 $988 $1174 #
+straight-curve $-1 -1 -1 $-1 0 -63.470384181603698 145.509871939465 10 0 0 F -1.27 F 1.27 #
+position_attrib-name_attrib-gen-attrib $-1 -1 $1175 $744 $7 2 1 2 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_ORIGIN_POS_INDEX_0 0 0 0 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1176 $745 $80 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1177 $746 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1178 $747 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1179 $748 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1180 $749 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1181 $-1 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 LAM_FACE_TNDX 5 #
+loop $1182 -1 -1 $-1 $-1 $1017 $750 T 12.699999999999999 -63.470384181603734 36.529615818396302 12.699999999999999 -41.019743878930797 58.980256121069218 periphery $1008 F #
+plane-surface $-1 -1 -1 $-1 12.699999999999999 -52.245064030267301 47.754935969732699 1 0 0 0 1 -0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $768 $753 $1183 $1184 reversed $487 $-1 #
+coedge $-1 -1 -1 $-1 $755 $754 $753 $1011 reversed $304 $-1 #
+edge $1185 -1 -1 $-1 $770 -1.27 $1186 1.27 $1010 $1187 forward @7 unknown T -12.699999999999999 -45.509871939465498 36.529615818396302 12.699999999999999 -45.509871939465498 36.529615818396302 #
+coedge $-1 -1 -1 $-1 $758 $1183 $754 $1013 forward $1007 $-1 #
+edge $1188 -1 -1 $-1 $1186 0 $1015 0.63500000000000301 $754 $1189 forward @7 unknown T 12.699999999999999 -45.509871939465498 36.529615818396302 12.699999999999999 -41.019743878930797 41.019743878930875 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $757 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 458 #
+vertex $1190 -1 -1 $-1 $757 $1191 #
+straight-curve $-1 -1 -1 $-1 0 -41.019743878930797 41.019743878930797 10 0 0 F -1.27 F 1.27 #
+coedge $-1 -1 -1 $-1 $1183 $758 $760 $1020 forward $1007 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $759 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 457 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -41.019743878930797 41.019743878930797 0 -7.0710678118654702 7.0710678118654799 F 0 F 2.5400000000000142 #
+edge $1192 -1 -1 $-1 $762 0 $1030 0.63499999999999601 $760 $1193 forward @7 unknown T 12.699999999999999 -63.470384181603734 54.490128060534602 12.699999999999999 -58.980256121069203 58.980256121069203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $762 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 367 #
+point $-1 -1 -1 $-1 12.699999999999999 -58.980256121069203 58.980256121069203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $764 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 454 #
+straight-curve $-1 -1 -1 $-1 -12.699999999999999 -45.509871939465498 36.529615818396302 0 -7.0710678118655101 -7.07106781186544 F -0.63500000000000301 F 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $766 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 365 #
+point $-1 -1 -1 $-1 -12.699999999999999 -41.019743878930797 41.019743878930797 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $770 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 366 #
+point $-1 -1 -1 $-1 -12.699999999999999 -45.509871939465498 36.529615818396302 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $772 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 462 #
+vertex $1194 -1 -1 $-1 $772 $1195 #
+straight-curve $-1 -1 -1 $-1 0 -63.470384181603698 54.490128060534602 10 0 0 F -1.27 F 1.27 #
+straight-curve $-1 -1 -1 $-1 750 5000 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 750 5000 0 #
+point $-1 -1 -1 $-1 -750 5000 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1196 $785 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 21 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $786 $59 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 697 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1197 $787 $86 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1198 $788 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1199 $789 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1200 $790 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1201 $791 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $792 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $797 $802 $794 $1044 forward $792 $-1 #
+edge $1202 -1 -1 $-1 $815 0 $1046 0.25000000000004885 $794 $1203 forward @7 unknown T 1.5 -1.590990257670033 199.82322330470299 1.5 0.17677669529668 201.59099025767 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $796 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 379 #
+vertex $1204 -1 -1 $-1 $798 $1205 #
+straight-curve $-1 -1 -1 $-1 0 -1.5909902576697399 199.82322330470299 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $798 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 378 #
+straight-curve $-1 -1 -1 $-1 1.5 -1.5909902576697399 199.82322330470299 0 7.0710678118655599 -7.0710678118653902 F 0 F 0.099999999999959038 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $800 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 314 #
+point $-1 -1 -1 $-1 1.5 -0.88388347648320897 199.11611652351701 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $805 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 382 #
+straight-curve $-1 -1 -1 $-1 1.5 0.88388347648319099 200.88388347648299 0 -7.0710678118654799 7.0710678118654702 F 0 F 0.10000000000002998 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $815 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 316 #
+point $-1 -1 -1 $-1 1.5 0.17677669529668 201.59099025767 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1206 $817 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 22 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $818 $62 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 703 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1207 $819 $92 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1208 $820 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1209 $821 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1210 $822 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1211 $823 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $824 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $829 $834 $826 $1065 forward $824 $-1 #
+edge $1212 -1 -1 $-1 $847 0 $1067 0.25879999999998948 $826 $1213 forward @7 unknown T 1.5 4.1650881556373296 198.750091980782 1.5 4.8349118443626704 201.249908019218 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $828 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 391 #
+vertex $1214 -1 -1 $-1 $830 $1215 #
+straight-curve $-1 -1 -1 $-1 0 4.1650881556373296 198.750091980782 10 0 0 F -0.14999999999999999 F 0.14999999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $830 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 390 #
+straight-curve $-1 -1 -1 $-1 1.5 4.1650881556373296 198.750091980782 0 9.6592582628906474 -2.5881904510253397 F 0 F 0.1000000000000125 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $832 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 322 #
+point $-1 -1 -1 $-1 1.5 5.1310139819264 198.49127293567901 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $837 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 394 #
+straight-curve $-1 -1 -1 $-1 1.5 5.8008376706517399 200.991088974116 0 -9.6592582628906527 2.5881904510253211 F 0 F 0.099999999999986655 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $847 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 324 #
+point $-1 -1 -1 $-1 1.5 4.8349118443626704 201.249908019218 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1216 $849 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 LAM_ENTITY_NAME @10 1VSCUARNQE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $850 $65 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 709 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1217 $851 $98 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1218 $852 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1219 $853 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1220 $854 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $858 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 401 #
+straight-curve $-1 -1 -1 $-1 3 -3.00000000000006 201.942038115749 0 9.8480775301220742 1.7364817766693408 F 0 F 0.6092559671314508 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $860 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 329 #
+point $-1 -1 -1 $-1 3 2.99999999999994 203 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $864 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 403 #
+straight-curve $-1 -1 -1 $-1 3 -3.00000000000006 203 0 0 -10 F 0 F 0.10579618842510001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $870 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 330 #
+point $-1 -1 -1 $-1 3 -3.00000000000006 201.942038115749 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1221 $872 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 24 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $873 $68 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 714 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1222 $874 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1223 $875 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1224 $876 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1225 $877 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1226 $878 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $879 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $884 $889 $881 $1100 forward $879 $-1 #
+edge $1227 -1 -1 $-1 $902 0 $1102 0.59999999999999998 $881 $1228 forward @7 unknown T 3 -3.00000000000006 203.25 3 2.99999999999994 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $883 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 412 #
+vertex $1229 -1 -1 $-1 $1100 $1230 #
+straight-curve $-1 -1 -1 $-1 0 2.99999999999994 203.25 10 0 0 F -0.29999999999999999 F 0.29999999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $885 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 411 #
+straight-curve $-1 -1 -1 $-1 3 2.99999999999994 203.25 0 -3.0596697529039697e-15 10 F 0 F 13.969999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $887 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 336 #
+point $-1 -1 -1 $-1 3 2.9999999999999001 342.94999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $892 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 415 #
+straight-curve $-1 -1 -1 $-1 3 -3.0000000000000902 342.94999999999999 0 1.8278546575789999e-15 -10 F 0 F 13.969999999999999 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $902 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 338 #
+point $-1 -1 -1 $-1 3 -3.00000000000006 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1231 $904 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $905 $71 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 720 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1232 $906 $110 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1233 $907 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1234 $908 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1235 $909 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1236 $910 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $911 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $916 $921 $913 $1121 forward $911 $-1 #
+edge $1237 -1 -1 $-1 $934 0 $1123 2.5399999999999716 $913 $1238 forward @7 unknown T 12.699999999999999 -8.9802561210691199 141.0197438789308 12.699999999999999 8.9802561210690808 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $915 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 424 #
+vertex $1239 -1 -1 $-1 $1121 $1240 #
+straight-curve $-1 -1 -1 $-1 0 -8.9802561210691199 141.019743878931 10 0 0 F -1.27 F 1.27 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $917 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 423 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -8.9802561210691199 141.019743878931 0 7.0710678118655501 -7.0710678118654 F 0 F 0.63500000000003443 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $919 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 344 #
+point $-1 -1 -1 $-1 12.699999999999999 -4.49012806053448 136.529615818396 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $924 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 427 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 13.4703841816037 154.490128060535 0 -7.0710678118655501 7.0710678118654 F 0 F 0.63499999999996259 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $934 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 346 #
+point $-1 -1 -1 $-1 12.699999999999999 8.9802561210690808 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1241 $936 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 26 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $937 $74 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 726 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1242 $938 $116 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1243 $939 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1244 $940 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1245 $941 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1246 $942 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $943 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $948 $953 $945 $1142 forward $943 $-1 #
+edge $1247 -1 -1 $-1 $966 0 $1144 0.63499999999999157 $945 $1248 forward @7 unknown T 12.699999999999999 8.9802561210691607 41.019743878930903 12.699999999999999 13.4703841816037 45.509871939465427 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $947 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 436 #
+vertex $1249 -1 -1 $-1 $949 $1250 #
+straight-curve $-1 -1 -1 $-1 0 13.4703841816037 45.509871939465398 10 0 0 F -1.27 F 1.27 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $949 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 435 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 13.4703841816037 45.509871939465398 0 -7.0710678118654799 7.0710678118654702 F 0 F 2.5399999999999983 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $951 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 352 #
+point $-1 -1 -1 $-1 12.699999999999999 -4.4901280605345901 63.470384181603698 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $956 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 439 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -8.9802561210691607 58.980256121069203 0 7.0710678118654799 -7.0710678118654702 F 0 F 2.5400000000000005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $966 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 354 #
+point $-1 -1 -1 $-1 12.699999999999999 8.9802561210691607 41.019743878930903 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1251 $968 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 27 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $969 $77 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 732 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1252 $970 $122 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1253 $971 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1254 $972 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1255 $973 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1256 $974 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $975 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $980 $985 $977 $1163 forward $975 $-1 #
+edge $1257 -1 -1 $-1 $998 0 $1165 0.63499999999996137 $977 $1258 forward @7 unknown T 12.699999999999999 -63.470384181603698 141.01974387893074 12.699999999999999 -58.980256121069097 145.509871939465 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $979 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 448 #
+vertex $1259 -1 -1 $-1 $979 $1260 #
+straight-curve $-1 -1 -1 $-1 0 -58.980256121069097 141.019743878931 10 0 0 F -1.27 F 1.27 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $981 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 447 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -58.980256121069097 141.019743878931 0 7.07106781186544 7.0710678118655101 F 0 F 2.5399999999999707 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $983 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 360 #
+point $-1 -1 -1 $-1 12.699999999999999 -41.019743878930903 158.980256121069 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $988 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 451 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -45.509871939465498 163.470384181604 0 -7.0710678118654302 -7.0710678118655199 F 0 F 2.5400000000000418 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $998 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 362 #
+point $-1 -1 -1 $-1 12.699999999999999 -63.470384181603698 145.509871939465 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1261 $1000 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 28 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1001 $80 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 738 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1262 $1002 $128 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1263 $1003 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1264 $1004 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1265 $1005 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $1266 $1006 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 LAM_SURF_FIXED_AXIS 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1007 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @7 1360344 #
+coedge $-1 -1 -1 $-1 $1012 $1017 $1009 $1184 forward $1007 $-1 #
+edge $1267 -1 -1 $-1 $1030 0 $1186 2.539999999999992 $1009 $1268 forward @7 unknown T 12.699999999999999 -63.470384181603698 36.529615818396302 12.699999999999999 -45.509871939465455 54.490128060534602 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1011 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 460 #
+vertex $1269 -1 -1 $-1 $1011 $1270 #
+straight-curve $-1 -1 -1 $-1 0 -45.509871939465498 36.529615818396302 10 0 0 F -1.27 F 1.27 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1013 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 459 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -45.509871939465498 36.529615818396302 0 7.0710678118655101 7.07106781186544 F 0 F 0.63500000000000301 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1015 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 368 #
+point $-1 -1 -1 $-1 12.699999999999999 -41.019743878930797 41.019743878930797 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1020 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 463 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -58.980256121069203 58.980256121069203 0 -7.0710678118654506 -7.0710678118655004 F 0 F 0.63499999999999601 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1030 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 370 #
+point $-1 -1 -1 $-1 12.699999999999999 -63.470384181603698 54.490128060534602 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1271 $1035 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1037 $86 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 698 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1272 $1038 $138 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1273 $1039 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1274 $1040 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1275 $1041 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1044 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 380 #
+straight-curve $-1 -1 -1 $-1 1.5 0.17677669529668 201.59099025767 0 -7.0710678118654702 -7.0710678118654799 F 0 F 0.25000000000004885 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1046 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 315 #
+point $-1 -1 -1 $-1 1.5 -1.5909902576697399 199.82322330470299 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1276 $1056 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1058 $92 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 704 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1277 $1059 $147 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1278 $1060 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1279 $1061 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1280 $1062 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1065 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 392 #
+straight-curve $-1 -1 -1 $-1 1.5 4.8349118443626704 201.249908019218 0 -2.5881904510252096 -9.6592582628906793 F 0 F 0.25879999999998948 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1067 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 323 #
+point $-1 -1 -1 $-1 1.5 4.1650881556373296 198.750091980782 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1281 $1077 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 23 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1079 $98 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 710 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1282 $1080 $156 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1283 $1081 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1284 $1082 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @33 1VJCU69NQE55Y24CBG3NW8SR7FP5YC8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1285 $1091 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1286 $1093 $104 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1287 $1094 $165 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1288 $1095 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1289 $1096 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1290 $1097 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1100 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 413 #
+straight-curve $-1 -1 -1 $-1 3 -3.00000000000006 203.25 0 10 0 F 0 F 0.59999999999999998 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1102 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 337 #
+point $-1 -1 -1 $-1 3 2.99999999999994 203.25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1291 $1112 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1114 $110 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 721 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1292 $1115 $174 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1293 $1116 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1294 $1117 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1295 $1118 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1121 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 425 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 8.9802561210690808 158.980256121069 0 -7.07106781186544 -7.0710678118655101 F 0 F 2.5399999999999716 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1123 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 345 #
+point $-1 -1 -1 $-1 12.699999999999999 -8.9802561210691199 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1296 $1133 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1135 $116 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 727 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1297 $1136 $183 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1298 $1137 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1299 $1138 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1300 $1139 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1142 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 437 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 8.9802561210691607 41.019743878930903 0 7.0710678118654702 7.0710678118654799 F 0 F 0.63499999999999157 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1144 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 353 #
+point $-1 -1 -1 $-1 12.699999999999999 13.4703841816037 45.509871939465398 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1301 $1154 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1156 $122 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 733 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1302 $1157 $192 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1303 $1158 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1304 $1159 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1305 $1160 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1163 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 449 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -63.470384181603698 145.509871939465 0 7.0710678118655501 -7.0710678118654 F 0 F 0.63499999999996137 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1165 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 361 #
+point $-1 -1 -1 $-1 12.699999999999999 -58.980256121069097 141.019743878931 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1306 $1175 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1177 $128 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 739 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1307 $1178 $201 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1308 $1179 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1309 $1180 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+real_attrib-name_attrib-gen-attrib $-1 -1 $1310 $1181 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 LAM_SURF_PROPERTY_REF 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1184 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 461 #
+straight-curve $-1 -1 -1 $-1 12.699999999999999 -63.470384181603698 54.490128060534602 0 7.0710678118654702 -7.0710678118654799 F 0 F 2.539999999999992 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $1186 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 369 #
+point $-1 -1 -1 $-1 12.699999999999999 -45.509871939465498 36.529615818396302 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1311 $1196 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1198 $138 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 699 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1312 $1199 $212 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1313 $1200 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1314 $1201 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1315 $1206 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1208 $147 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 705 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1316 $1209 $225 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1317 $1210 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1318 $1211 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1319 $1216 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @14 BeamSteeringYZ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1218 $156 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 711 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1320 $1219 $238 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1321 $1220 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1322 $1221 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1222 $104 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 715 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1223 $165 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 716 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1323 $1224 $251 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1324 $1225 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1325 $1226 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1326 $1231 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1233 $174 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 722 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1327 $1234 $264 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1328 $1235 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1329 $1236 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1330 $1241 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1243 $183 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 728 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1331 $1244 $277 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1332 $1245 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1333 $1246 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1334 $1251 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1253 $192 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 734 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1335 $1254 $290 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1336 $1255 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1337 $1256 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1338 $1261 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1263 $201 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 740 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1339 $1264 $303 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1340 $1265 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1341 $1266 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 LAM_SURF_PROPERTY @25 1VJCU69NQE55Y2M87FMNXZ8U3 #
+rgb_color-st-attrib $-1 -1 $-1 $1271 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1273 $212 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 700 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1342 $1274 $320 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1343 $1275 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+rgb_color-st-attrib $-1 -1 $-1 $1276 $1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1278 $225 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 706 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1344 $1279 $344 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1345 $1280 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+string_attrib-name_attrib-gen-attrib $-1 -1 $1346 $1281 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Solid1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1283 $238 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 712 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1347 $1284 $368 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+rgb_color-st-attrib $-1 -1 $-1 $1285 $3 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1288 $251 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 717 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1348 $1289 $390 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1349 $1290 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+rgb_color-st-attrib $-1 -1 $-1 $1291 $4 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1293 $264 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 723 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1350 $1294 $414 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1351 $1295 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+rgb_color-st-attrib $-1 -1 $-1 $1296 $5 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1298 $277 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 729 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1352 $1299 $438 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1353 $1300 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+rgb_color-st-attrib $-1 -1 $-1 $1301 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1303 $290 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 735 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1354 $1304 $462 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1355 $1305 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+rgb_color-st-attrib $-1 -1 $-1 $1306 $7 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1308 $303 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 741 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1356 $1309 $486 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1357 $1310 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @25 LAM_SURF_PROPERTY_CATALOG @13 1V6CUERJQGE5Y #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1313 $320 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 701 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1358 $1314 $517 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1317 $344 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 707 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1359 $1318 $551 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+rgb_color-st-attrib $-1 -1 $-1 $1319 $2 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.74901962280273438 0.74901962280273438 0.74901962280273438 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1321 $368 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 713 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1324 $390 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 718 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1360 $1325 $614 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1328 $414 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 724 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1361 $1329 $648 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1332 $438 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 730 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1362 $1333 $682 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1336 $462 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 736 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1363 $1337 $716 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1340 $486 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 742 #
+wstring_attrib-name_attrib-gen-attrib $-1 -1 $1364 $1341 $750 2 3 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @27 LAM_SURF_COATING_USER_PARAM @2 1V #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1343 $517 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 702 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1345 $551 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 708 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1349 $614 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 719 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1351 $648 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 725 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1353 $682 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 731 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1355 $716 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 737 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $1357 $750 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 743 #
+End-of-ACIS-data 
+TracePro Notes
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fprq15\fcharset0 Times New Roman;}}
+{\*\generator Riched20 10.0.18362}\viewkind4\uc1 
+\pard\fi-216\li216\ri100\f0\fs20 where will this be?\par
+}
+
+End Notes
+TracePro XML Begin
+<TraceProParams><Model>C:\Users\KMFin\OneDrive\Desktop\Computer Transfer\Lab Stuff\Laser Orientation\Dog Leg Design\BeamSteeringYZ.oml</Model><CreatedBy>KMFin</CreatedBy><CreateTime>Fri Jun  5 11:42:34 2020</CreateTime><TraceProVersion>20.2.0.20099</TraceProVersion><x64Version>1</x64Version><MSXMLVersion>3.0</MSXMLVersion><TraceProXMLVersion>11</TraceProXMLVersion><TraceProParameters><GridSources><GridSource><Name>Grid Source 1</Name><Excluded>0</Excluded><Flux>0.372693726937269</Flux><RayColor>255</RayColor><Units>0</Units><TotalRays>101</TotalRays><DiscreteFlag>1</DiscreteFlag><Wavelengths><Wavelength>0.5461</Wavelength><WavelengthTo>-1</WavelengthTo><NumberInc>1</NumberInc><Weight>1</Weight><Flux>0.372693726937269</Flux><RayCount>101</RayCount><TraceThisFlag>1</TraceThisFlag></Wavelengths><Shape>0</Shape><Pattern>4</Pattern><FluxType>0</FluxType><Orientation>0</Orientation><HalfWidth>0</HalfWidth><HalfHeight>0.25</HalfHeight><WidthPnts>50</WidthPnts><HeightPnts>50</HeightPnts><WidthInnerPnts>0</WidthInnerPnts><HeightInnerPnts>0</HeightInnerPnts><RandomSeed>1</RandomSeed><CenterPos><X>0</X><Y>0</Y><Z>0</Z></CenterPos><NormalVec><X>0</X><Y>0</Y><Z>1</Z></NormalVec><UpVec><X>0</X><Y>1</Y><Z>0</Z></UpVec><BeamOrientaion>0</BeamOrientaion><BeamSpatialShape>1</BeamSpatialShape><BeamAngularShape>0</BeamAngularShape><BeamSpatialWeight>0</BeamSpatialWeight><BeamAngularWeight>0</BeamAngularWeight><BeamNormal><X>0</X><Y>0</Y><Z>1</Z></BeamNormal><BeamUp><X>0</X><Y>1</Y><Z>0</Z></BeamUp><BeamWaistX>1</BeamWaistX><BeamWaistY>1</BeamWaistY><BeamHalfAngleX>0</BeamHalfAngleX><BeamHalfAngleY>0</BeamHalfAngleY><PolarType>0</PolarType><PolarMethod>0</PolarMethod><DegreeOfPolar>1</DegreeOfPolar><Stokes><S0>1</S0><S1>0</S1><S2>0</S2><S3>0</S3><SX>1</SX><SY>0</SY><SZ>0</SZ></Stokes></GridSource></GridSources><FileSources/><SurfaceSources/><Calculations/><RaytraceParams><FluxThreshold>0.05</FluxThreshold><TotalIntercepts>1000</TotalIntercepts><TotalScatters>1000</TotalScatters><RandomScatters>1000</RandomScatters><OpticalScatters>1000</OpticalScatters><RadiometricUnits>0</RadiometricUnits><RaytraceImportance>1</RaytraceImportance><RaytracePolarization>0</RaytracePolarization><RaytraceSplitting>1</RaytraceSplitting><RaytraceQuickTrace>0</RaytraceQuickTrace><RaytraceSpecularTrace>0</RaytraceSpecularTrace><RaytraceDetectRay>0</RaytraceDetectRay><RaytraceRandomRays>1</RaytraceRandomRays><RaytraceRandomSeed>1</RaytraceRandomSeed><RaytraceDiffraction>0</RaytraceDiffraction><RaytraceDiffDistance>1000000</RaytraceDiffDistance><RaytraceSpeedMode>1</RaytraceSpeedMode><RaytraceMaxVoxels>32000</RaytraceMaxVoxels><RaytraceGrinSubstepTol>6</RaytraceGrinSubstepTol><RaytraceVoxelizationType>0</RaytraceVoxelizationType><RaytraceOctreeMaxTreeDepth>4</RaytraceOctreeMaxTreeDepth><RaytraceOctreeOptimalEdgesInVoxel>0</RaytraceOctreeOptimalEdgesInVoxel><RaytraceOctreeOptimalFacesInVoxel>5</RaytraceOctreeOptimalFacesInVoxel><FluorescenceFlag>0</FluorescenceFlag><FluorescenceType>0</FluorescenceType><FluorescenceInsertSource>0</FluorescenceInsertSource><ElapsedTime><Days>0</Days><TotalHours>0</TotalHours><Minutes>0</Minutes><Seconds>1</Seconds></ElapsedTime><SimulationMode>0</SimulationMode><ExitSurfaceData>1</ExitSurfaceData><CandelaData>0</CandelaData><UseSimDataFiles>1</UseSimDataFiles><ExitHistoryFile>0</ExitHistoryFile><ExitScatterFile>0</ExitScatterFile><SavePathSortData>0</SavePathSortData><DefaultTemperature>298.15</DefaultTemperature><RayColorType>0</RayColorType><ModelUnits>millimeters</ModelUnits><AutoUpdateMap>1</AutoUpdateMap><RayFilename></RayFilename><SimulationIndexFilename>BeamSteeringYZ.ndx</SimulationIndexFilename><CacheRayFiles>1</CacheRayFiles></RaytraceParams><IrradianceMapParams><NormalVec><X>0</X><Y>0</Y><Z>1</Z></NormalVec><UpVec><X>0</X><Y>1</Y><Z>0</Z></UpVec><Smooth>1</Smooth><Log>0</Log><AutoCalc>1</AutoCalc><Contour>1</Contour><NormalizeEmitted>0</NormalizeEmitted><Type>0</Type><MapColor>3</MapColor><GradientDisplay>0</GradientDisplay><Profiles>1</Profiles><AutoLevels>1</AutoLevels><UsePercent>0</UsePercent><FootDisplay>0</FootDisplay><_3DMap>0</_3DMap><Local>0</Local><Buckets>50</Buckets><Rays>1</Rays><NumContours>15</NumContours><Symmetry>0</Symmetry><FFTsize>128</FFTsize><ViewMax>0</ViewMax><ViewMin>0</ViewMin><Max>0</Max><Min>0</Min><ViewNumber>0</ViewNumber><RadHalfAngle>10</RadHalfAngle><Brightness>0.5</Brightness><Contrast>0.5</Contrast><Gamma>1</Gamma><SatColorEnabled>1</SatColorEnabled><SatColor>255</SatColor><RGBValueMode>0</RGBValueMode><NormToMaxFlag>0</NormToMaxFlag></IrradianceMapParams><_3DIrradianceMapParams><DataType>0</DataType><DataRays>0</DataRays><DataSetMax>0</DataSetMax><DataUserMax>0</DataUserMax><NormalizeTo>0</NormalizeTo><DataSetMin>0</DataSetMin><DataUserMin>0</DataUserMin><Smoothing>0</Smoothing><ContourPlot>0</ContourPlot><PixelEdges>0</PixelEdges><GradientDisplay>0</GradientDisplay><LogScale>0</LogScale><LightingOn>0</LightingOn><ObjectTransparency>0</ObjectTransparency><NoPixels>50</NoPixels><ColorMap>1</ColorMap><AutoLevels>1</AutoLevels><NumberContours>15</NumberContours><UsePercent>0</UsePercent><SetNumber>0</SetNumber><Brightness>0.5</Brightness><Contrast>0.5</Contrast><Gamma>1</Gamma><SatColorEnabled>1</SatColorEnabled><SatColor>255</SatColor><NormToMaxFlag>0</NormToMaxFlag></_3DIrradianceMapParams><PolarizationMapParams><NormalVec><X>0</X><Y>0</Y><Z>1</Z></NormalVec><UpVec><X>0</X><Y>1</Y><Z>0</Z></UpVec><AutoCalc>0</AutoCalc><MapColor>0</MapColor><GradientDisplay>0</GradientDisplay><Buckets>11</Buckets><RayType>0</RayType><DOP_Low>0</DOP_Low><DOP_High>1</DOP_High></PolarizationMapParams><CandelaMapParams><NormalVec><X>0</X><Y>-1</Y><Z>0</Z></NormalVec><UpVec><X>0</X><Y>0</Y><Z>1</Z></UpVec><RaySelectType>0</RaySelectType><CandelaAngularWidth>90</CandelaAngularWidth><CandDistLumianireWidth>120</CandDistLumianireWidth><CandDistPolarWidth>90</CandDistPolarWidth><CandDistRectangularWidth>90</CandDistRectangularWidth><CandelaSymmetry>0</CandelaSymmetry><CandXYWidth>10</CandXYWidth><CandXYHeight>10</CandXYHeight><CandXYOrientation>0</CandXYOrientation><CandelaSmoothFactor>90</CandelaSmoothFactor><CandXYSmoothFactor>90</CandXYSmoothFactor><CandDistSmooth>0</CandDistSmooth><CandDistVerticalAng>90</CandDistVerticalAng><CandDistHorizontalAng>4</CandDistHorizontalAng><CandelaContour>0</CandelaContour><CandelaSmooth>0</CandelaSmooth><CandXYSmooth>0</CandXYSmooth><CandXYContour>0</CandXYContour><CandelaColor>0</CandelaColor><CandelaNumContours>10</CandelaNumContours><CandXYColor>0</CandXYColor><CandXYNumContours>10</CandXYNumContours><CandDistLuminaire>0</CandDistLuminaire><AutoLevels>1</AutoLevels><AutoLevelsXY>1</AutoLevelsXY><CandDistCdKLum>0</CandDistCdKLum><CandelaLog>0</CandelaLog><CandelaMax>0</CandelaMax><CandelaMin>0</CandelaMin><CandXYLog>0</CandXYLog><CandXYMax>0</CandXYMax><CandXYMin>0</CandXYMin><CandDistLogRect>0</CandDistLogRect><CandDistMax>0</CandDistMax><CandDistMin>0</CandDistMin><CandelaNumber>0</CandelaNumber><CandXYNumber>0</CandXYNumber><CandXYProfiles>0</CandXYProfiles><CandXY3DPlot>0</CandXY3DPlot><CandelaMaxCD>0</CandelaMaxCD><CandelaMinCD>0</CandelaMinCD><CandXYMaxCD>0</CandXYMaxCD><CandXYMinCD>0</CandXYMinCD><CandDistMaxCD>0</CandDistMaxCD><CandDistMinCD>0</CandDistMinCD></CandelaMapParams><CandelaIESParams><PhotometricType>0</PhotometricType><VerticalAngle>19</VerticalAngle><HorizontalAngle>19</HorizontalAngle><NoLamps>-1</NoLamps><Multiplier>1</Multiplier><VerticalType>1</VerticalType><NoDecimal>6</NoDecimal><DimWidth>0</DimWidth><DimHeight>0</DimHeight><DimLength>0</DimLength><DimUnit>0</DimUnit><TestLab></TestLab><Manufact></Manufact><LumPerLamp>-1</LumPerLamp><Absolute>0</Absolute></CandelaIESParams><VolumeFluxParams><Position_1><X>0</X><Y>0</Y><Z>0</Z></Position_1><Position_2><X>0</X><Y>0</Y><Z>0</Z></Position_2><NumCells_X>0</NumCells_X><NumCells_Y>0</NumCells_Y><NumCells_Z>0</NumCells_Z><ResultsFile></ResultsFile></VolumeFluxParams><NamedViewsParams/><RayColorsParams><RayColors_OneColor>0</RayColors_OneColor><PaletteIndex>0</PaletteIndex></RayColorsParams><OPLPlotParams><PlotType>0</PlotType><PlotRays>0</PlotRays><Normalization>0</Normalization><Smooth>0</Smooth><LogScale>0</LogScale><LengthUnits>0</LengthUnits><TimeUnits>0</TimeUnits><MinLength>0</MinLength><MaxLength>1</MaxLength><LengthIncrement>0.1</LengthIncrement><SmoothFactor>10</SmoothFactor></OPLPlotParams><PhotorealisticRenderingParams><Brightness>0.5</Brightness><Contrast>0.5</Contrast><Gamma>1</Gamma><AmbientType>0</AmbientType><Luminance>0</Luminance><AmbientDirection><X>0</X><Y>1</Y><Z>0</Z></AmbientDirection><RenderingQuality>3</RenderingQuality><MaxPhotons>0</MaxPhotons><PhotoviewMapType>0</PhotoviewMapType><PhotoviewColorScheme>0</PhotoviewColorScheme><PhotoviewSetMax>0</PhotoviewSetMax><PhotoviewSetMin>0</PhotoviewSetMin><PhotoviewMaxCD>0</PhotoviewMaxCD><PhotoviewMinCD>0</PhotoviewMinCD><PhotoviewLogscale>0</PhotoviewLogscale><PhotoviewShowLegend>0</PhotoviewShowLegend><SatColorEnabled>1</SatColorEnabled><SatColor>255</SatColor><RGBValueMode>0</RGBValueMode><NormToMaxFlag>0</NormToMaxFlag></PhotorealisticRenderingParams><SystemTreeGroupNodes/><PathSortFilterNodes/></TraceProParameters></TraceProParams>
+TracePro XML End
