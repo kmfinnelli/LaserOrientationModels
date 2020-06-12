@@ -1,5 +1,4 @@
 # LaserOrientationModels
-Laser Orientation Models
 
 BeamSteeringYZ.oml
 
